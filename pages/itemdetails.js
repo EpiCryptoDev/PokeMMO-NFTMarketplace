@@ -11,7 +11,7 @@ const PageHeaderText =
 const ItemInfo =
 {
     "id": 1,
-        "image": "assets/images/nft-item/item-details.gif",
+        "image": "assets/images/nft-item/logo.png",
         "description": "This is the second batch of Cybertino Genesis NFTs for early adopters and is 1 of 5. This Genesis NFT will be interactive: hold and wait for future exclusive benefits and early access to new drops!",
         "wishlist": "1.3",
         "expiredate": "2022-06-26",
