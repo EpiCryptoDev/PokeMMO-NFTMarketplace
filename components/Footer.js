@@ -93,8 +93,8 @@ const Footer = () => {
             </div>
             <div className="footer-bottom">
                 <div className="container">
-                    <p className="text-center py-4 mb-0">All rights reserved &copy; Anftiz || Design By: <a
-                            href="https://themeforest.net/user/labartisan/portfolio">Labartisan</a>
+                    <p className="text-center py-4 mb-0">Copyright © 2023 PokeMMO | Made with ❤️ by <a
+                            href="https://whitepaper.pokemmo.online/professor-willows-vision">Professor Willow</a>
                     </p>
                 </div>
             </div>

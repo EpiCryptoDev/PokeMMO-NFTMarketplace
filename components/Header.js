@@ -56,21 +56,6 @@ const Header = () => {
                                         <a className={router.pathname == "/indextwo" ? "drop-down-item active" : "drop-down-item"}>Home Page Two</a>
                                     </Link>
                                     </li>
-                                    <li>
-                                    <Link href="/indexthree">
-                                        <a className={router.pathname == "/indexthree" ? "drop-down-item active" : "drop-down-item"}>Home Page Three</a>
-                                    </Link>
-                                    </li>
-                                    <li>
-                                    <Link href="/indexfour">
-                                        <a className={router.pathname == "/indexfour" ? "drop-down-item active" : "drop-down-item"}>Home Page Four</a>
-                                    </Link>
-                                    </li>
-                                    <li>
-                                    <Link href="/indexfive">
-                                        <a className={router.pathname == "/indexfive" ? "drop-down-item active" : "drop-down-item"}>Home Page Five</a>
-                                    </Link>
-                                    </li>
                                 </ul>
                             </li>
                             <li className="header__nav-item">
