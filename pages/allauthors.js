@@ -25,13 +25,13 @@ const AllAuthor = () => {
                 <div className="container">
                     <div className="section-header justify-content-between">
                         <div className="header-title">
-                            <span><i className="icofont-light-bulb"></i></span>
-                            <h3>All Authors</h3>
+                            <span><i className="icofont-trophy-alt"></i></span>
+                            <h3>Hall Of Fame</h3>
                         </div>
                         <div className="nft-search">
                             <div className="form-floating nft-search-input">
                                 <input type="text" className="form-control" id="nftSearch" placeholder="Search Author" />
-                                <label >Search Author</label>
+                                <label >Search a Trainer</label>
                                 <button type="button"> <i className="icofont-search-1"></i></button>
                             </div>
                         </div>

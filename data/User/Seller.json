@@ -2,96 +2,96 @@
 
     {
         "id":"1",
-        "name":"Gihan Fernindo",
-        "image":"assets/images/seller/collector-1.png",
+        "name":"Yuri Jackmann",
+        "image":"assets/images/seller/collector-4.gif",
         "thumbnail":"assets/images/nft-item/style-2/01.jpg",
         "verified": true,
         "prfileLink":"/",
-        "collected":"3,002.98",
+        "collected":"13,122.98",
         "increament":38.78,
-        "sales":"25004"
+        "sales":"135"
     },
     {
         "id":"2",
-        "name":"X31le eko Fernindo",
-        "image":"assets/images/seller/collector-2.gif",
+        "name":"Rin Yazaki",
+        "image":"assets/images/seller/collector-3.png",
         "thumbnail":"assets/images/nft-item/style-2/02.jpg",
         "verified": true,
         "prfileLink":"/",
-        "collected":"12,002.48",
+        "collected":"8,597.48",
         "increament":-2.78,
-        "sales":"22004"
+        "sales":"122"
         
     },
     {
         "id":"3",
-        "name":"Jhon Doe",
-        "image":"assets/images/seller/collector-1.png",
+        "name":"Pedro Sanchez",
+        "image":"assets/images/seller/collector-8.png",
         "verified": true,
         "prfileLink":"/",
-        "collected":"3,002.98",
+        "collected":"6,002.98",
         "increament":18.8,
-        "sales":"4820"
+        "sales":"117"
     },
     {
         "id":"4",
-        "name":"drexa_3xo",
+        "name":"John Doe",
         "image":"assets/images/seller/collector-1.png",
         "verified": true,
         "prfileLink":"/",
-        "collected":"23,002.98",
+        "collected":"5,982.04",
         "increament":-23.81,
-        "sales":"3698"
+        "sales":"105"
     },
     {
         "id":"5",
-        "name":"rox zipper",
+        "name":"John Doe",
         "image":"assets/images/seller/collector-6.png",
         "verified": true,
         "prfileLink":"/",
-        "collected":"20,02.98",
+        "collected":"5,875.25",
         "increament":48.38,
-        "sales":"3698"
+        "sales":"102"
     },
     {
         "id":"6",
-        "name":"@Anra-_uido",
+        "name":"John Doe",
         "image":"assets/images/seller/collector-3.gif",
         "verified": true,
         "prfileLink":"/",
-        "collected":"23,002.98",
+        "collected":"5,751.19",
         "increament":-8.78,
-        "sales":"3698"
+        "sales":"98"
     },
     {
         "id":"7",
-        "name":"rassel_mrh",
+        "name":"John Doe",
         "image":"assets/images/seller/collector-4.gif",
         "verified": true,
         "prfileLink":"/",
-        "collected":"93,002.98",
+        "collected":"5,298.75",
         "increament":88.78,
-        "sales":"3698"
+        "sales":"105"
     },
     {
         "id":"8",
-        "name":"holder don",
+        "name":"John Doe",
         "image":"assets/images/seller/collector-7.png",
         "verified": true,
         "prfileLink":"/",
-        "collected":"23,002.98",
+        "collected":"4,687.18",
         "increament":3.7,
-        "sales":"3698"
+        "sales":"87"
     },
     {
         "id":"9",
-        "name":"rub_3l",
+        "name":"John Doe",
         "image":"assets/images/seller/collector-1.gif",
         "verified": true,
         "prfileLink":"/",
-        "collected":"3,002.98",
+        "collected":"4,502.43",
         "increament":31.78,
-        "sales":"3698"
+        "sales":"67"
     }
 
     

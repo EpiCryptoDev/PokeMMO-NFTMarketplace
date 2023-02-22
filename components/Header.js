@@ -131,27 +131,22 @@ const Header = () => {
                             </li>
                             <li className="header__nav-item">
                                 <a className="header__nav-link" href="#" role="button" data-bs-toggle="dropdown"
-                                    aria-haspopup="true" aria-expanded="false" data-bs-offset="0,10">Author</a>
+                                    aria-haspopup="true" aria-expanded="false" data-bs-offset="0,10">Trainers</a>
 
                                 <ul className="dropdown-menu header__nav-menu">
                                     <li>
                                     <Link href="/allauthors">
-                                        <a className={router.pathname == "/allauthors" ? "drop-down-item active" : "drop-down-item"}>All Author</a>
-                                    </Link>
-                                    </li>
-                                    <li>
-                                    <Link href="/allauthorstwo">
-                                        <a className={router.pathname == "/allauthorstwo" ? "drop-down-item active" : "drop-down-item"}>All Author 2</a>
+                                        <a className={router.pathname == "/alltrainers" ? "drop-down-item active" : "drop-down-item"}>All Trainers</a>
                                     </Link>
                                     </li>
                                     <li>
                                     <Link href="/author">
-                                        <a className={router.pathname == "/author" ? "drop-down-item active" : "drop-down-item"}>Author Single</a>
+                                        <a className={router.pathname == "/trainer" ? "drop-down-item active" : "drop-down-item"}>Trainer View</a>
                                     </Link>
                                     </li>
                                     <li>
                                     <Link href="/rank">
-                                        <a className={router.pathname == "/rank" ? "drop-down-item active" : "drop-down-item"}>Author Rank </a>
+                                        <a className={router.pathname == "/rank" ? "drop-down-item active" : "drop-down-item"}>Trainer Rank </a>
                                     </Link>
                                     </li>
                                 </ul>

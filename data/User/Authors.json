@@ -2,137 +2,137 @@
 
     {
         "id":"1",
-        "name":"Gihan Fernindo",
-        "image":"assets/images/seller/collector-1.png",
+        "name":"Yuri Jackmann",
+        "image":"assets/images/seller/collector-4.gif",
         "thumbnail":"assets/images/nft-item/style-2/03.gif",
         "verified": true,
         "prfileLink":"/",
-        "collected":"3,002.98",
+        "collected":"13,122.98",
         "increament":38.78,
-        "sales":"25004"
+        "sales":"13,122.98"
     },
     {
         "id":"2",
-        "name":"X31le eko Fernindo",
-        "image":"assets/images/seller/collector-2.gif",
+        "name":"Rin Yazaki",
+        "image":"assets/images/seller/collector-3.png",
         "thumbnail":"assets/images/nft-item/style-2/01.gif",
         "verified": true,
         "prfileLink":"/",
-        "collected":"12,002.48",
+        "collected":"8,597.48",
         "increament":-2.78,
-        "sales":"22004"
+        "sales":"8,597.48"
         
     },
     {
         "id":"3",
-        "name":"Jhon Doe",
-        "image":"assets/images/seller/collector-2.png",
+        "name":"Pedro Sanchez",
+        "image":"assets/images/seller/collector-8.png",
         "thumbnail":"assets/images/nft-item/style-2/02.gif",
         "verified": true,
         "prfileLink":"/",
-        "collected":"3,002.98",
+        "collected":"6,002.98",
         "increament":18.8,
-        "sales":"20000"
+        "sales":"6,002.98"
     },
     {
         "id":"4",
-        "name":"nazmulKhalid",
+        "name":"John Doe",
         "image":"assets/images/seller/collector-10.png",
         "thumbnail":"assets/images/nft-item/style-2/04.gif",
         "verified": true,
         "prfileLink":"/",
-        "collected":"23,002.98",
+        "collected":"5,982.04",
         "increament":3.7,
-        "sales":"19500"
+        "sales":"5,982.04"
         
     },
     {
         "id":"5",
-        "name":"Imao XO9",
+        "name":"John Doe",
         "image":"assets/images/seller/collector-8.png",
         "thumbnail":"assets/images/nft-item/style-2/03.gif",
         "verified": true,
         "prfileLink":"/",
-        "collected":"20,02.98",
+        "collected":"5,875.25",
         "increament":48.38,
-        "sales":"19000"
+        "sales":"5,875.25"
     },
     {
         "id":"6",
-        "name":"rasselmrh",
+        "name":"John Doe",
         "image":"assets/images/seller/collector-4.gif",
         "thumbnail":"assets/images/nft-item/style-2/01.gif",
         "verified": true,
         "prfileLink":"/",
-        "collected":"23,002.98",
+        "collected":"5,751.19",
         "increament":-8.78,
-        "sales":"18900"
+        "sales":"5,751.19"
     },
     {
         "id":"7",
-        "name":"5eo Le1",
+        "name":"John Doe",
         "image":"assets/images/seller/collector-6.png",
         "thumbnail":"assets/images/nft-item/style-2/02.gif",
         "verified": true,
         "prfileLink":"/",
-        "collected":"93,002.98",
+        "collected":"5,298.75",
         "increament":88.78,
-        "sales":"18000"
+        "sales":"5,298.75"
     },
     {
         "id":"8",
-        "name":"Alex joe",
+        "name":"John Doe",
         "image":"assets/images/seller/collector-3.gif",
         "thumbnail":"assets/images/nft-item/style-2/04.gif",
         "verified": true,
         "prfileLink":"/",
-        "collected":"23,002.98",
+        "collected":"4,687.18",
         "increament":-23.81,
-        "sales":"17900"
+        "sales":"4,687.18"
     },
     {
         "id":"9",
-        "name":"rocket_3 #s0s",
+        "name":"John Doe",
         "image":"assets/images/seller/collector-3.gif",
         "thumbnail":"assets/images/nft-item/style-2/07.jpg",
         "verified": true,
         "prfileLink":"/",
-        "collected":"3,002.98",
+        "collected":"4,502.43",
         "increament":31.78,
-        "sales":"17100"
+        "sales":"4,502.43"
     },
     {
         "id":"10",
-        "name":"dfkjeo se1",
+        "name":"John Doe",
         "image":"assets/images/seller/collector-6.png",
         "thumbnail":"assets/images/nft-item/style-2/08.jpg",
         "verified": true,
         "prfileLink":"/",
-        "collected":"3,002.98",
+        "collected":"4,002.98",
         "increament":31.78,
-        "sales":"17000"
+        "sales":"4,002.98"
     },
     {
         "id":"11",
-        "name":"Rnah rnindo",
+        "name":"John Doe",
         "image":"assets/images/seller/collector-7.png",
         "thumbnail":"assets/images/nft-item/style-2/09.jpg",
         "verified": true,
         "prfileLink":"/",
-        "collected":"3,002.98",
+        "collected":"3,781.22",
         "increament":31.78,
-        "sales":"16800"
+        "sales":"3,781.22"
     },
     {
         "id":"12",
-        "name":"rblo dfd# o",
+        "name":"John Doe",
         "image":"assets/images/seller/collector-9.png",
         "thumbnail":"assets/images/nft-item/style-2/10.jpg",
         "verified": true,
         "prfileLink":"/",
-        "collected":"3,002.98",
+        "collected":"3,664.01",
         "increament":31.78,
-        "sales":"16500"
+        "sales":"3,664.01"
     }
 
     
