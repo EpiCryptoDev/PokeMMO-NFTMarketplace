@@ -48,12 +48,22 @@ const Header = () => {
                                 <ul className="dropdown-menu header__nav-menu">
                                     <li>
                                     <Link href="/">
-                                        <a className={router.pathname == "/" ? "drop-down-item active" : "drop-down-item"}>Home Page One</a>
+                                        <a className={router.pathname == "/" ? "drop-down-item active" : "drop-down-item"}>Home</a>
                                     </Link> 
                                     </li>
                                     <li>
-                                    <Link href="/indextwo">
-                                        <a className={router.pathname == "/indextwo" ? "drop-down-item active" : "drop-down-item"}>Home Page Two</a>
+                                    <Link href="https://pokemmo.online/">
+                                        <a target="_blank" className={router.pathname == "/Website" ? "drop-down-item active" : "drop-down-item"}>Website</a>
+                                    </Link>
+                                    </li>
+                                    <li>
+                                    <Link href="https://whitepaper.pokemmo.online/">
+                                        <a target="_blank" className={router.pathname == "/WhitePaper" ? "drop-down-item active" : "drop-down-item"}>WhitePaper</a>
+                                    </Link>
+                                    </li>
+                                    <li>
+                                    <Link href="https://demo.pokemmo.online/">
+                                        <a target="_blank" className={router.pathname == "/Play" ? "drop-down-item active" : "drop-down-item"}>Play PokeMMO</a>
                                     </Link>
                                     </li>
                                 </ul>

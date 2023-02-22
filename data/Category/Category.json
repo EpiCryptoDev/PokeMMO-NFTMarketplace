@@ -2,49 +2,49 @@
     {
         "id": 1,
         "image": "assets/images/category/cat-1.png",
-        "name": "Art Work"
+        "name": "Monsters"
        
     },
     {
         "id": 2,
         "image": "assets/images/category/cat-2.png",
-        "name": "Music"
+        "name": "Ressources"
        
     },
     {
         "id": 3,
         "image": "assets/images/category/cat-3.png",
-        "name": "Utility"
+        "name": "Medicine"
        
     },
     {
         "id": 4,
         "image": "assets/images/category/cat-4.png",
-        "name": "Sports"
+        "name": "Moves"
        
     },
     {
         "id": 5,
         "image": "assets/images/category/cat-5.png",
-        "name": "Collectibles"
+        "name": "Balls"
        
     },
     {
         "id": 6,
         "image": "assets/images/category/cat-6.png",
-        "name": "Cards"
+        "name": "Evolve Items"
        
     },
     {
         "id": 7,
         "image": "assets/images/category/cat-7.png",
-        "name": "Metaverse"
+        "name": "Held Items"
        
     },
     {
         "id": 8,
         "image": "assets/images/category/cat-8.png",
-        "name": "Domain"
+        "name": "Key Items"
        
     }
     

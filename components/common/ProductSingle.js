@@ -32,8 +32,8 @@ const ProductSingle = ({data,countdown=false,style}) => {
 
                             <ul className="dropdown-menu">
                                 <li><a className="dropdown-item" href="#"><span>
-                                    <i className="icofont-warning"></i>
-                                </span> Report </a>
+                                    <i className="icofont-heart"></i>
+                                </span> Whishlist </a>
                                 </li>
                                 <li><a className="dropdown-item" href="#"><span><i
                                     className="icofont-reply"></i></span> Share</a></li>
@@ -51,7 +51,7 @@ const ProductSingle = ({data,countdown=false,style}) => {
                             {countdown == true ? (<Timer data={data}/>): '' }
                             <span className="badge rounded-pill position-absolute"><i
                                 className="icofont-heart"></i>
-                                {`${data.wishlist}`}k</span>
+                                &nbsp;{`${data.wishlist}`}</span>
                     </div>
                     <div className="nft-content">
                         <div className="content-title">
@@ -72,15 +72,15 @@ const ProductSingle = ({data,countdown=false,style}) => {
                                 </Link>
                                 
                                 </span>
-                            <div className="nft-stock"> {`${data.stock}`} in Stock</div>
+                            <div className="nft-stock"> {`${data.stock}`} Trades</div>
                         </div>
                         <div className="price-like d-flex justify-content-between align-items-center">
                             <div className="nft-price d-flex align-items-center">
                                 <span className="currency-img">
-                                    <img src='assets/images/currency/currency-3.png'
+                                    <img src='assets/images/currency/MMO.png'
                                         alt="currency img" />
                                 </span>
-                                <p>{`${data.price}`} ETH
+                                <p>{`${data.price}`} $MMO
                                 </p>
                             </div>
                             <Link href="/itemdetails">

@@ -15,18 +15,16 @@ const Banner = () => {
                     <div className="row align-items-center justify-content-center">
                         <div className="col-lg-8">
                             <div className="banner-content text-center">
-                                <h2>Discover, Collect
-                                    And Sell Extraordinary NFTs </h2>
-                                <p>Digital Marketplace For Crypto Collectibles And Non-Fungible Tokens.</p>
+                                <h2><span className="gradient-text-orange">PokeMMO Marketplace</span> </h2>
+                                <p>Discover, Collect And Sell In-Game Assets.</p>
                                 <div className="banner-btns d-flex flex-wrap justify-content-center">
                                     <Link href="/explore">
-                                    <a className="default-btn move-top"><span>Explore
-                                            Now</span> 
+                                    <a className="default-btn move-top"><span>Explore</span> 
                                     </a>
                                     </Link>
 
                                     <Link href="/signin">
-                                    <a className="default-btn style-2 move-right"><span>Create Store</span>
+                                    <a className="default-btn style-2 move-right"><span>Sign In</span>
                                     </a>
                                     </Link>
                                 </div>
