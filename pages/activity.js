@@ -14,7 +14,7 @@ const Activities = [
         "id":1,
         "title":"Gold digger x",
         "description":"GOLD DIGGER (x Antoni Tudisco) #44/44 was put up for sale for0.0991 ETH",
-        "image":"assets/images/activity/01.gif",
+        "image":"assets/images/activity/117.png",
         "by":"@rasselmrh",
         "createdAt":"10/07/2022, 10:03 am"
     },
@@ -22,7 +22,7 @@ const Activities = [
         "id":2,
         "title":"ghost lix xrf",
         "description":"two rare collection purchased for0.001 ETH",
-        "image":"assets/images/activity/02.gif",
+        "image":"assets/images/activity/125.png",
         "by":"@technonazmul",
         "createdAt":"10/07/2022, 08:23 am"
     },
@@ -30,7 +30,7 @@ const Activities = [
         "id":3,
         "title":"Trust In meh",
         "description":"The Shopping Cart #54/65 was put up for sale for 0.021 ETH",
-        "image":"assets/images/activity/03.gif",
+        "image":"assets/images/activity/131.png",
         "by":"@reo2lxsr",
         "createdAt":"10/07/2022, 12:03 am"
     },
@@ -38,7 +38,7 @@ const Activities = [
         "id":4,
         "title":"Sysytan #0le",
         "description":"A offer of $200.00 was placed for ÜNDERSTANDING (Sean Williams) #1/20",
-        "image":"assets/images/activity/04.gif",
+        "image":"assets/images/activity/87.png",
         "by":"@reo2lxsr",
         "createdAt":"10/07/2022, 12:03 am"
     }
