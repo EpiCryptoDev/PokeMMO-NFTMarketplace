@@ -285,8 +285,7 @@ const Header = () => {
                             <div className="dropdown">
                                 <a className="dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
                                     aria-expanded="false" data-bs-offset="-100,10">
-                                    <span><i className="icofont-user"></i></span> <span className="d-none d-md-inline">Alex
-                                        Joe</span>
+                                    <span><i className="icofont-user"></i></span> <span className="d-none d-md-inline">Pr. Willow</span>
                                 </a>
 
                                 <ul className="dropdown-menu">
@@ -327,7 +326,7 @@ const Header = () => {
                         <div className="wallet-btn">
                             <Link href="/wallet">
                             <a ><span><i className="icofont-wallet" data-blast="color"></i></span> <span
-                                    className="d-none d-md-inline">234.98ETH</span> </a>
+                                    className="d-none d-md-inline">75,266k $MMO</span> </a>
                              </Link>
                         </div>
                     </div>
