@@ -21,7 +21,7 @@ const PageHeader = ({text,breadcrumb = true}) => {
                 <div className="page-header-content">
                     <div className="page-header-inner">
                         <div className="page-title">
-                            <h2>{`${text.heading}`} </h2>
+                         <h2 className="gradient-text-orange">{`${text.heading}`} </h2>
 
                             {text.author?authorSection:''}
                         </div>

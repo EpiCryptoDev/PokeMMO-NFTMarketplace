@@ -28,8 +28,6 @@ const Category = () => {
 
         }
 
-        
-        
     }
 
     return (
@@ -62,37 +60,64 @@ const Category = () => {
                                         <button className="accordion-button" type="button" data-bs-toggle="collapse"
                                             data-bs-target="#collapseOne" aria-expanded="true"
                                             aria-controls="collapseOne">
-                                            <i className="icofont-atom"></i> Chain
+                                            <i className="icofont-atom"></i> Category
                                         </button>
                                     </h2>
                                     <div id="collapseOne" className="accordion-collapse collapse show"
                                         aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                         <div className="accordion-body">
                                             <div className="form-check">
-                                                <input className="form-check-input" type="checkbox" value="Ethereum" id="ethereum" onChange={(event) => productSearch(event.target.value)} />
+                                                <input className="form-check-input" type="checkbox" value="Monsters" id="Monsters" onChange={(event) => productSearch(event.target.value)} />
                                                 <label className="form-check-label">
-                                                    Ethereum
+                                                    Monsters
                                                 </label>
                                             </div>
                                             <div className="form-check">
-                                            <input className="form-check-input" type="checkbox" value="BSC" id="ethereum" onChange={(event) => productSearch(event.target.value)} />
+                                            <input className="form-check-input" type="checkbox" value="Ressources" id="Ressources" onChange={(event) => productSearch(event.target.value)} />
 
                                                 <label className="form-check-label">
-                                                    BSC
+                                                    Ressources
                                                 </label>
                                             </div>
                                             <div className="form-check">
-                                            <input className="form-check-input" type="checkbox" value="Polygone" id="ethereum" onChange={(event) => productSearch(event.target.value)} />
+                                            <input className="form-check-input" type="checkbox" value="Medicine" id="Medicine" onChange={(event) => productSearch(event.target.value)} />
 
                                                 <label className="form-check-label">
-                                                    Polygone
+                                                    Medicine
                                                 </label>
                                             </div>
                                             <div className="form-check">
-                                            <input className="form-check-input" type="checkbox" value="Cronos" id="ethereum" onChange={(event) => productSearch(event.target.value)} />
+                                            <input className="form-check-input" type="checkbox" value="Moves" id="Moves" onChange={(event) => productSearch(event.target.value)} />
 
                                                 <label className="form-check-label">
-                                                    Cronos
+                                                    Moves
+                                                </label>
+                                            </div>
+                                            <div className="form-check">
+                                                <input className="form-check-input" type="checkbox" value="Balls" id="Balls" onChange={(event) => productSearch(event.target.value)} />
+                                                <label className="form-check-label">
+                                                    Balls
+                                                </label>
+                                            </div>
+                                            <div className="form-check">
+                                            <input className="form-check-input" type="checkbox" value="EvItems" id="EvItems" onChange={(event) => productSearch(event.target.value)} />
+
+                                                <label className="form-check-label">
+                                                    Evolve Items
+                                                </label>
+                                            </div>
+                                            <div className="form-check">
+                                            <input className="form-check-input" type="checkbox" value="HeItems" id="HeItems" onChange={(event) => productSearch(event.target.value)} />
+
+                                                <label className="form-check-label">
+                                                    Held Items
+                                                </label>
+                                            </div>
+                                            <div className="form-check">
+                                            <input className="form-check-input" type="checkbox" value="KeItems" id="KeItems" onChange={(event) => productSearch(event.target.value)} />
+
+                                                <label className="form-check-label">
+                                                    Key Items
                                                 </label>
                                             </div>
                                         </div>

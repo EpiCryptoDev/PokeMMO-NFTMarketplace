@@ -5,10 +5,10 @@
         "wishlist": "157",
         "expiredate": "2023-04-25",
         "title": "Monster #94",
-        "stock": "135",
+        "stock": "12",
         "price": "27,500",
         "category": "Art",
-        "tags": "BSC | Polygone | Cronos | For Sell | For Collect | Trending | Dark Cat Mewo | Space_Riderz | Mimi_chika chao | Trending_Sculpture",
+        "tags": "Monsters | For Sell | For Collect | Trending | Dark Cat Mewo | Space_Riderz | Mimi_chika chao | Trending_Sculpture",
         "owners": [
             {
                 "id":"1",
@@ -29,7 +29,7 @@
         "stock": "122",
         "price": "37,510",
         "category": "Art",
-        "tags": "Ethereum | Polygone | Cronos | For Sell | For Collect | Trending | Dark Cat Mewo | Space_Riderz | Mimi_chika chao | Trending_Sculpture",
+        "tags": "Monsters | For Sell | For Collect | Trending | Dark Cat Mewo | Space_Riderz | Mimi_chika chao | Trending_Sculpture",
         "owners": [
             {
                 "id":"2",
@@ -50,7 +50,7 @@
         "stock": "117",
         "price": "25,500",
         "category": "Art",
-        "tags": "Ethereum | BSC | Cronos | For Sell | For Collect | Trending | Dark Cat Mewo | Space_Riderz | Mimi_chika chao | Trending_Sculpture",
+        "tags": "Monsters | For Sell | For Collect | Trending | Dark Cat Mewo | Space_Riderz | Mimi_chika chao | Trending_Sculpture",
         "owners": [
             {
                 "id":"3",
@@ -71,7 +71,7 @@
         "stock": "17",
         "price": "31,000",
         "category": "Virtual World",
-        "tags": "Ethereum | BSC | Polygone | For Sell | For Collect | Trending | Dark Cat Mewo | Space_Riderz | Mimi_chika chao | Trending_Sculpture",
+        "tags": "Monsters | For Sell | For Collect | Trending | Dark Cat Mewo | Space_Riderz | Mimi_chika chao | Trending_Sculpture",
         "owners": [
             {
                 "id":"7",
@@ -92,7 +92,7 @@
         "stock": "11",
         "price": "27,500",
         "category": "Virtual World",
-        "tags": "Ethereum | BSC | Polygone | Cronos | For Collect | Trending | Dark Cat Mewo | Space_Riderz | Mimi_chika chao | Trending_Sculpture",
+        "tags": "Monsters | For Collect | Trending | Dark Cat Mewo | Space_Riderz | Mimi_chika chao | Trending_Sculpture",
         "owners": [
             {
                 "id":"9",
@@ -113,7 +113,7 @@
         "stock": "31",
         "price": "47,500",
         "category": "Virtual World",
-        "tags": "Ethereum | BSC | Polygone | Cronos | For Sell | For Collect | Trending | Dark Cat Mewo | Space_Riderz | Mimi_chika chao | Trending_Sculpture",
+        "tags": "Monsters | For Sell | For Collect | Trending | Dark Cat Mewo | Space_Riderz | Mimi_chika chao | Trending_Sculpture",
         "owners": [
             {
                 "id":"9",
@@ -134,7 +134,7 @@
         "stock": "32",
         "price": "22,500",
         "category": "Cards",
-        "tags": "Ethereum | BSC | Polygone | Cronos | For Sell | For Collect | Trending | Dark Cat Mewo | Space_Riderz | Mimi_chika chao | Trending_Sculpture",
+        "tags": "Monsters | For Sell | For Collect | Trending | Dark Cat Mewo | Space_Riderz | Mimi_chika chao | Trending_Sculpture",
         "owners": [
             {
                 "id":"9",
@@ -155,7 +155,7 @@
         "stock": "32",
         "price": "27,500",
         "category": "Cards",
-        "tags": "Ethereum | BSC | Polygone | Cronos | For Sell | For Collect | Trending | Dark Cat Mewo | Space_Riderz | Mimi_chika chao | Trending_Sculpture",
+        "tags": "Monsters | For Sell | For Collect | Trending | Dark Cat Mewo | Space_Riderz | Mimi_chika chao | Trending_Sculpture",
         "owners": [
             {
                 "id":"9",
@@ -176,7 +176,7 @@
         "stock": "32",
         "price": "27,500",
         "category": "Cards",
-        "tags": "Ethereum | BSC | Polygone | Cronos | For Sell | For Collect | Trending | Dark Cat Mewo | Space_Riderz | Mimi_chika chao | Trending_Sculpture",
+        "tags": "Monsters | For Sell | For Collect | Trending | Dark Cat Mewo | Space_Riderz | Mimi_chika chao | Trending_Sculpture",
         "owners": [
             {
                 "id":"9",
@@ -197,7 +197,7 @@
         "stock": "32",
         "price": "27,500",
         "category": "Cards",
-        "tags": "Ethereum | BSC | Polygone | Cronos | For Sell | For Collect | Trending | Dark Cat Mewo | Space_Riderz | Mimi_chika chao | Trending_Sculpture",
+        "tags": "Monsters | For Sell | For Collect | Trending | Dark Cat Mewo | Space_Riderz | Mimi_chika chao | Trending_Sculpture",
         "owners": [
             {
                 "id":"9",
@@ -218,7 +218,7 @@
         "stock": "32",
         "price": "27,500",
         "category": "Collectibles",
-        "tags": "Ethereum | BSC | Polygone | Cronos | For Sell | For Collect | Trending | Dark Cat Mewo | Space_Riderz | Mimi_chika chao | Trending_Sculpture",
+        "tags": "Monsters | For Sell | For Collect | Trending | Dark Cat Mewo | Space_Riderz | Mimi_chika chao | Trending_Sculpture",
         "owners": [
             {
                 "id":"9",
@@ -239,7 +239,7 @@
         "stock": "32",
         "price": "27,500",
         "category": "Collectibles",
-        "tags": "Ethereum | BSC | Polygone | Cronos | For Sell | For Collect | Trending | Dark Cat Mewo | Space_Riderz | Mimi_chika chao | Trending_Sculpture",
+        "tags": "Monsters | For Sell | For Collect | Trending | Dark Cat Mewo | Space_Riderz | Mimi_chika chao | Trending_Sculpture",
         "owners": [
             {
                 "id":"9",
@@ -260,7 +260,7 @@
         "stock": "32",
         "price": "27,500",
         "category": "Collectibles",
-        "tags": "Ethereum | BSC | Polygone | Cronos | For Sell | For Collect | Trending | Dark Cat Mewo | Space_Riderz | Mimi_chika chao | Trending_Sculpture",
+        "tags": "Monsters | For Sell | For Collect | Trending | Dark Cat Mewo | Space_Riderz | Mimi_chika chao | Trending_Sculpture",
         "owners": [
             {
                 "id":"11",
@@ -281,7 +281,7 @@
         "stock": "32",
         "price": "31,265",
         "category": "Sports",
-        "tags": "Ethereum | BSC | Polygone | Cronos | For Sell | For Collect | Trending | Dark Cat Mewo | Space_Riderz | Mimi_chika chao | Trending_Sculpture",
+        "tags": "Monsters | For Sell | For Collect | Trending | Dark Cat Mewo | Space_Riderz | Mimi_chika chao | Trending_Sculpture",
         "owners": [
             {
                 "id":"13",
@@ -302,7 +302,7 @@
         "stock": "32",
         "price": "54,136",
         "category": "Sports",
-        "tags": "Ethereum | BSC | Polygone | Cronos | For Sell | For Collect | Trending | Dark Cat Mewo | Space_Riderz | Mimi_chika chao | Trending_Sculpture",
+        "tags": "Monsters | For Sell | For Collect | Trending | Dark Cat Mewo | Space_Riderz | Mimi_chika chao | Trending_Sculpture",
         "owners": [
             {
                 "id":"13",

@@ -56,7 +56,7 @@ const ProductSingle = ({data,countdown=false,style}) => {
                     <div className="nft-content">
                         <div className="content-title">
                             <h5>
-                                <Link href="/itemdetails">
+                                <Link href="/assetdetails">
                                 <a>{`${data.title}`}</a> 
                                 </Link>
                             </h5>
@@ -83,7 +83,7 @@ const ProductSingle = ({data,countdown=false,style}) => {
                                 <p>{`${data.price}`} $MMO
                                 </p>
                             </div>
-                            <Link href="/itemdetails">
+                            <Link href="/assetdetails">
                             <a className="nft-bid">Place Bid</a>
                             </Link>
                         </div>

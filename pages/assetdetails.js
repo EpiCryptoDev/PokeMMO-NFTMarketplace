@@ -5,7 +5,7 @@ import PageHeader from '../components/PageHaeder';
 const PageHeaderText =
 {
     "linkText":"Home",
-    "heading":"Item Details"
+    "heading":"Asset Details"
 };
 
 const ItemInfo =
@@ -49,7 +49,7 @@ const ItemInfo =
         ]
 };
 
-const ItemDetails = () => {
+const AssetDetails = () => {
     return (
         <div>
         <PageHeader text={PageHeaderText} />
@@ -228,4 +228,4 @@ const ItemDetails = () => {
     )
 }
 
-export default ItemDetails;
+export default AssetDetails;

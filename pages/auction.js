@@ -8,7 +8,7 @@ var productList = Products.slice(0,12);
 const PageHeaderText =
 {
     "linkText":"Home",
-    "heading":"NFT's Live Auction"
+    "heading":"Live Auction"
 };
 
 const Auction = () => {
@@ -27,8 +27,6 @@ const Auction = () => {
             setshowProducts(productList);
 
         }
-
-        
         
     }
 
@@ -44,7 +42,7 @@ const Auction = () => {
                 <div className="nft-search">
                     <div className="form-floating nft-search-input">
                         <input type="text" className="form-control" id="nftSearch" placeholder="Search NFT" onChange={(event) => productSearch(event.target.value)} />
-                        <label>Search NFT</label>
+                        <label>Search Asset</label>
                         <button type="button"> <i className="icofont-search-1"></i></button>
                     </div>
                 </div>

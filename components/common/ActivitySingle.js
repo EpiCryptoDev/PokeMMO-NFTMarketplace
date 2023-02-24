@@ -10,7 +10,7 @@ const ActivitySingle = ({item}) => {
                 </div>
                 <div className="lab-content">
                     <h4>
-                        <Link href="/itemdetails">
+                        <Link href="/assetdetails">
                         <a>{`${item.title}`}</a>
                         </Link>
                     </h4>

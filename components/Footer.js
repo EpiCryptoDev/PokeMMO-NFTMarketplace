@@ -9,7 +9,7 @@ const Footer = () => {
                             <div className="col-lg-6">
                                 <div className="newsletter-part">
                                     <div className="ft-header">
-                                        <h4>Get The Latest Anftiz Updates</h4>
+                                        <h4>Get The Latest PokeMMO Updates</h4>
                                     </div>
                                     <form action="#">
                                         <input type="email" placeholder="Your Mail Address" />
@@ -20,14 +20,16 @@ const Footer = () => {
                             <div className="col-lg-6">
                                 <div className="social-part ps-lg-5">
                                     <div className="ft-header">
-                                        <h4>Join the Community</h4>
+                                        <h4>Join Our Community</h4>
                                     </div>
                                     <ul className="social-list d-flex flex-wrap align-items-center mb-0">
-                                        <li className="social-link"><a href="#"><i className="icofont-twitter"></i></a></li>
-                                        <li className="social-link"><a href="#"><i className="icofont-twitch"></i></a></li>
-                                        <li className="social-link"><a href="#"><i className="icofont-reddit"></i></a></li>
-                                        <li className="social-link"><a href="#"><i className="icofont-instagram"></i></a></li>
-                                        <li className="social-link"><a href="#"><i className="icofont-dribble"></i></a></li>
+                                        <li className="social-link"><a href="https://twitter.com/PKMMOnline" target="_blank"><i className="icofont-twitter"></i></a></li>
+                                        <li className="social-link"><a href="https://t.me/pokemmo_channel" target="_blank"><i className="icofont-telegram"></i></a></li>
+                                        <li className="social-link"><a href="https://www.youtube.com/@pokemmoonline" target="_blank"><i className="icofont-youtube"></i></a></li>
+                                        <li className="social-link"><a href="https://www.reddit.com/r/PokeMMOonline/" target="_blank"><i className="icofont-reddit"></i></a></li>
+                                        <li className="social-link"><a href="#" target="_blank"><i className="icofont-facebook"></i></a></li>
+                                        <li className="social-link"><a href="#" target="_blank"><i className="icofont-code"></i></a></li>
+                                        <li className="social-link"><a href="#" target="_blank"><i className="icofont-file-text"></i></a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -41,12 +43,13 @@ const Footer = () => {
                         <div className="row g-5">
                             <div className="col-lg-3 col-md-6">
                                 <div className="footer-link-item">
-                                    <h5>About</h5>
+                                    <h5>PokeMMO</h5>
                                     <ul className="footer-link-list">
-                                        <li><a href="#" className="footer-link">Explore</a></li>
-                                        <li><a href="#" className="footer-link">How it works</a></li>
-                                        <li><a href="#" className="footer-link">Support</a></li>
-                                        <li><a href="#" className="footer-link">Become a partner</a></li>
+                                        <li><a href="#" className="footer-link" target="_blank">Home</a></li>
+                                        <li><a href="https://pokemmo.online" className="footer-link" target="_blank">Website</a></li>
+                                        <li><a href="https://whitepaper.pokemmo.online/" className="footer-link" target="_blank">Whitepaper</a></li>
+                                        <li><a href="https://demo.pokemmo.online/" className="footer-link" target="_blank">Play in Brower</a></li>
+                                        <li><a href="https://pokemmo.online/wp-content/uploads/2023/02/PokeMMO-Win-v0.0.17.zip" className="footer-link" target="_blank">Download PokeMMO</a></li>
 
                                     </ul>
                                 </div>

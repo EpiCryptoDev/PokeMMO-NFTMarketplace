@@ -74,18 +74,13 @@ const Header = () => {
 
                                 <ul className="dropdown-menu header__nav-menu">
                                     <li>
-                                        <Link href="/createvariant">
-                                            <a className={router.pathname == "/createvariant" ? "drop-down-item active" : "drop-down-item"}>Create Variation</a>
+                                        <Link href="/sellassets">
+                                            <a className={router.pathname == "/sellassets" ? "drop-down-item active" : "drop-down-item"}>Sell Assets</a>
                                         </Link> 
                                     </li>
                                     <li>
-                                    <Link href="/createnft">
-                                        <a className={router.pathname == "/createnft" ? "drop-down-item active" : "drop-down-item"}>Create NFT</a>
-                                    </Link>
-                                    </li>
-                                    <li>
-                                    <Link href="/itemdetails">
-                                        <a className={router.pathname == "/itemdetails" ? "drop-down-item active" : "drop-down-item"}>NFT Details</a>
+                                    <Link href="/assetdetails">
+                                        <a className={router.pathname == "/assetdetails" ? "drop-down-item active" : "drop-down-item"}>Asset Details</a>
                                     </Link>
                                     </li>
                                     <li>

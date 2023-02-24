@@ -1,13 +1,13 @@
 [
     {
         "id":"1",
-        "title":"Radium Animated Monster",
+        "title":"Yuri Jackmann's Assets",
         "items":13,
         "wish":11.3,
         "users": [
             {
                 "id":"1",
-                "name":"rasselmrh",
+                "name":"Yuri Jackmann",
                 "image":"assets/images/seller/collector-4.gif",
                 "verified": false,
                 "prfileLink":"/"
@@ -34,14 +34,14 @@
     },
     {
         "id":"2",
-        "title":"Digital CryptoArt",
+        "title":"Rin Yazaki's Assets",
         "items":11,
         "wish":10.5,
         "users": [
             {
                 "id":"1",
-                "name":"nazmulKhalid",
-                "image":"assets/images/seller/collector-10.png",
+                "name":"Rin Yazaki",
+                "image":"assets/images/seller/collector-3.png",
                 "verified": false,
                 "prfileLink":"/"
             }
@@ -67,14 +67,14 @@
     },
     {
         "id":"3",
-        "title":"Radium Animated Monster",
+        "title":"Pedro Sanchez's Assets",
         "items":14,
         "wish":4.3,
         "users": [
             {
                 "id":"1",
-                "name":"Mimi_Chao",
-                "image":"assets/images/seller/collector-3.gif",
+                "name":"Pedro Sanchez",
+                "image":"assets/images/seller/collector-8.png",
                 "verified": false,
                 "prfileLink":"/"
             }
@@ -100,13 +100,13 @@
     },
     {
         "id":"4",
-        "title":"Smart Owls",
+        "title":"John Doe's Assets",
         "items":16,
         "wish":4.3,
         "users": [
             {
                 "id":"1",
-                "name":"rasselmrh",
+                "name":"John Doe",
                 "image":"assets/images/seller/collector-2.png",
                 "verified": false,
                 "prfileLink":"/"
@@ -133,13 +133,13 @@
     },
     {
         "id":"5",
-        "title":"Da Cute Monster",
+        "title":"John Doe's Assets",
         "items":21,
         "wish":11.3,
         "users": [
             {
                 "id":"1",
-                "name":"monstaz",
+                "name":"John Doe",
                 "image":"assets/images/seller/collector-2.gif",
                 "verified": false,
                 "prfileLink":"/"
@@ -166,13 +166,13 @@
     },
     {
         "id":"6",
-        "title":"Super Herox",
+        "title":"John Doe's Assets",
         "items":31,
         "wish":4.3,
         "users": [
             {
                 "id":"1",
-                "name":"laurax orbo",
+                "name":"John Doe",
                 "image":"assets/images/seller/collector-5.png",
                 "verified": false,
                 "prfileLink":"/"
@@ -199,13 +199,13 @@
     },
     {
         "id":"7",
-        "title":"Honey babeee",
+        "title":"John Doe's Assets",
         "items":14,
         "wish":4.3,
         "users": [
             {
                 "id":"1",
-                "name":"@xar_spacer",
+                "name":"@John Doe",
                 "image":"assets/images/seller/collector-2.png",
                 "verified": true,
                 "prfileLink":"/"
@@ -232,13 +232,13 @@
     },
     {
         "id":"8",
-        "title":"My Pickachooz",
+        "title":"John Doe's Assets",
         "items":15,
         "wish":2.3,
         "users": [
             {
                 "id":"1",
-                "name":"@pichasu",
+                "name":"John Doe",
                 "image":"assets/images/seller/collector-3.png",
                 "verified": false,
                 "prfileLink":"/"
@@ -265,13 +265,13 @@
     },
     {
         "id":"9",
-        "title":"The Octopax",
+        "title":"John Doe's Assets",
         "items":14,
         "wish":4.3,
         "users": [
             {
                 "id":"1",
-                "name":"OktaX so",
+                "name":"John Doe",
                 "image":"assets/images/seller/collector-1.gif",
                 "verified": false,
                 "prfileLink":"/"
