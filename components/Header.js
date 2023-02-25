@@ -53,17 +53,17 @@ const Header = () => {
                                     </li>
                                     <li>
                                     <Link href="https://pokemmo.online/">
-                                        <a target="_blank" className={router.pathname == "/Website" ? "drop-down-item active" : "drop-down-item"}>Website</a>
+                                        <a target="_blank" rel="noreferrer" className={router.pathname == "/Website" ? "drop-down-item active" : "drop-down-item"}>Website</a>
                                     </Link>
                                     </li>
                                     <li>
                                     <Link href="https://whitepaper.pokemmo.online/">
-                                        <a target="_blank" className={router.pathname == "/WhitePaper" ? "drop-down-item active" : "drop-down-item"}>WhitePaper</a>
+                                        <a target="_blank" rel="noreferrer" className={router.pathname == "/WhitePaper" ? "drop-down-item active" : "drop-down-item"}>WhitePaper</a>
                                     </Link>
                                     </li>
                                     <li>
                                     <Link href="https://demo.pokemmo.online/">
-                                        <a target="_blank" className={router.pathname == "/Play" ? "drop-down-item active" : "drop-down-item"}>Play PokeMMO</a>
+                                        <a target="_blank" rel="noreferrer" className={router.pathname == "/Play" ? "drop-down-item active" : "drop-down-item"}>Play PokeMMO</a>
                                     </Link>
                                     </li>
                                 </ul>
