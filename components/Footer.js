@@ -58,7 +58,7 @@ const Footer = () => {
                                 <div className="footer-link-item">
                                     <h5>NFT Marketplace</h5>
                                     <ul className="footer-link-list">
-                                        <li><a href="/sellassets" className="footer-link">Sell your Assets</a></li>
+                                        <li><a href="/sellassets" className="footer-link">Sell Assets</a></li>
                                         <li><a href="/trainer" className="footer-link">Your Profile</a></li>
                                         <li><a href="/explore" className="footer-link">Explore Assets</a></li>
                                         <li><a href="/rank" className="footer-link">Ranking</a></li>
