@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 const Footer = () => {
     return (
         <div>
@@ -58,10 +60,10 @@ const Footer = () => {
                                 <div className="footer-link-item">
                                     <h5>NFT Marketplace</h5>
                                     <ul className="footer-link-list">
-                                        <li><a href="/sellassets" className="footer-link">Sell Assets</a></li>
-                                        <li><a href="/trainer" className="footer-link">Your Profile</a></li>
-                                        <li><a href="/explore" className="footer-link">Explore Assets</a></li>
-                                        <li><a href="/rank" className="footer-link">Ranking</a></li>
+                                        <li><a className="footer-link"><Link href="/sellassets">Assets</Link></a></li>
+                                        <li><a className="footer-link"><Link href="/trainer">Your Profile</Link></a></li>
+                                        <li><a className="footer-link"><Link href="/explore">Explore Assets</Link></a></li>
+                                        <li><a className="footer-link"><Link href="/rank">Ranking</Link></a></li>
                                         <li><a href="https://t.me/pokemmo_channel" target="_blank" rel="noreferrer" className="footer-link">Support</a></li>
                                     </ul>
                                 </div>
@@ -82,7 +84,7 @@ const Footer = () => {
                                 <div className="footer-link-item">
                                     <h5>Further Information</h5>
                                     <ul className="footer-link-list">
-                                        <li><a href="https://whitepaper.pokemmo.online/roadmap/project-roadmap" target="_blank" rel="noreferrer" className="footer-link">Project Roadmap</a></li>
+                                        <li><a className="footer-link" href="https://whitepaper.pokemmo.online/roadmap/project-roadmap" target="_blank" rel="noreferrer"> Project Roadmap</a></li>
                                         <li><a href="https://whitepaper.pokemmo.online/roadmap/game-dev-roadmap" target="_blank" rel="noreferrer" className="footer-link">Game Dev Roadmap</a></li>
                                         <li><a href="https://whitepaper.pokemmo.online/miscellaneous/game-releases" target="_blank" rel="noreferrer" className="footer-link">Game Releases</a></li>
                                         <li><a href="https://whitepaper.pokemmo.online/miscellaneous/disclaimer" target="_blank" rel="noreferrer" className="footer-link">Disclaimer</a></li>
