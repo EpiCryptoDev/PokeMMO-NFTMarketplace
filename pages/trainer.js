@@ -492,7 +492,7 @@ const Author = () => {
                                     <div className="row">
                                         <div className="col-xl-9">
                                             <article>
-                                                <h4 className="h4-title">Trainer's Activity</h4>
+                                                <h4 className="h4-title">Trainers Activity</h4>
                                                 <div className="row gy-3">
                                                     {
                                                         AuthorInfo.activities.map((item) =>(
