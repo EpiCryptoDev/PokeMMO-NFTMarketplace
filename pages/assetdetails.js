@@ -179,7 +179,7 @@ const AssetDetails = () => {
                     <div className="col-lg-6">
                         <div className="item-buy-part">
                             <div className="nft-item-title">
-                                <h3>Monster #94 - Level 54 - Moves 'X' 'Y' 'Z' 'W'</h3>
+                                <h3>Monster #94 - Level 54 - Moves X Y Z W</h3>
                                 <div className="share-btn">
                                     <div className=" dropstart">
                                         <a className=" dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
