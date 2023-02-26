@@ -11,33 +11,33 @@ const PageHeaderText =
 const ItemInfo =
 {
     "id": 1,
-        "image": "assets/images/nft-item/logo.png",
-        "description": "This is the second batch of Cybertino Genesis NFTs for early adopters and is 1 of 5. This Genesis NFT will be interactive: hold and wait for future exclusive benefits and early access to new drops!",
+        "image": "assets/images/nft-item/94-600.png",
+        "description": "Monster #94 - Level 54 - Moves 'X' 'Y' 'Z' 'W'",
         "wishlist": "1.3",
         "expiredate": "2022-06-26",
         "title": "Dodo je Aliener Walk",
         "stock": "12",
-        "price": "2.29",
-        "size": "1000 x 1000 px.VIDEO (19.85MB)",
-        "createdBy": "@alex joe",
-        "listedBy": "@alex joe",
+        "price": "275.000",
+        "size": "Level 54 - Moves 'X' 'Y' 'Z' 'W'",
+        "createdBy": "Pr. Willow",
+        "listedBy": "Yuri Jackmann",
         "owners": [
             {
                 "id":"1",
-                "name":"Alex joe",
-                "contactAddress":"0x1dDB2C0897daF134545641545462E71fdD2dbDC0eB3a9Ec",
+                "name":"Yuri Jackmann",
+                "contactAddress":"0x0000000000000000000000000000000000000000",
                 "token":"0005515456416",
-                "blockchain":"Ethereum (ETH)",
-                "image":"assets/images/seller/collector-3.gif",
+                "blockchain":"Monster",
+                "image":"assets/images/seller/collector-4.gif",
                 "verified": true,
                 "prfileLink":"/"
             },{
                 "id":"2",
-                "name":"Alex joe",
-                "contactAddress":"0x1dDB2C0897daF134545641545462E71fdD2dbDC0eB3a9Ec",
+                "name":"Pedro Sanchez",
+                "contactAddress":"0x0000000000000000000000000000000000000000",
                 "token":"0005515456416",
-                "blockchain":"Ethereum (ETH)",
-                "image":"assets/images/seller/collector-3.gif",
+                "blockchain":"Monster",
+                "image":"assets/images/seller/collector-8.png",
                 "verified": true,
                 "prfileLink":"/"
             }
@@ -84,16 +84,16 @@ const AssetDetails = () => {
                                             <p>{`${ItemInfo.description}`}</p>
                                             <div className="author-profile d-flex flex-wrap align-items-center gap-15">
                                                 <div className="author-p-thumb">
-                                                <Link href="/author">
+                                                <Link href="/trainer">
                                                     <a><img
-                                                            src="assets/images/seller/collector-3.gif"
+                                                            src="assets/images/seller/collector-4.gif"
                                                             alt="author-img " /></a>
                                                 </Link>
                                                 </div>
                                                 <div className="author-p-info">
                                                     <p className="mb-0">Owner</p>
                                                     <h6>
-                                                        <Link href="/author"><a>{`${ItemInfo.owners[0].name}`}</a></Link>
+                                                        <Link href="/trainer"><a>{`${ItemInfo.owners[0].name}`}</a></Link>
                                                         
                                                     </h6>
                                                 </div>
@@ -122,7 +122,7 @@ const AssetDetails = () => {
                                                 </li>
                                                 <li className="item-other-info">
                                                     <div className="item-info-title">
-                                                        <h6>Token ID</h6>
+                                                        <h6>Asset ID</h6>
                                                     </div>
                                                     <div className="item-info-details">
                                                         <p>{`${ItemInfo.owners[0].token}`}</p>
@@ -131,7 +131,7 @@ const AssetDetails = () => {
                                                 </li>
                                                 <li className="item-other-info">
                                                     <div className="item-info-title">
-                                                        <h6>Blockchain</h6>
+                                                        <h6>Category</h6>
                                                     </div>
                                                     <div className="item-info-details">
                                                         <p>{`${ItemInfo.owners[0].blockchain}`}</p>
@@ -140,7 +140,7 @@ const AssetDetails = () => {
 
                                                 <li className="item-other-info">
                                                     <div className="item-info-title">
-                                                        <h6>Size</h6>
+                                                        <h6>Attributes</h6>
                                                     </div>
                                                     <div className="item-info-details">
                                                         <p>{`${ItemInfo.size}`}</p>
@@ -157,16 +157,16 @@ const AssetDetails = () => {
                                             aria-labelledby="nav-history-tab">
                                             <ul className="item-histo-list">
                                                 <li className="histo-item">
-                                                    <p>Created by <Link href="/author"><a>{`${ItemInfo.createdBy}`}</a></Link></p>
-                                                    <time>2022-08-04 23:05:07</time>
+                                                    <p>Created by <Link href="/trainer"><a>{`${ItemInfo.createdBy}`}</a></Link></p>
+                                                    <time>2023-04-10 23:05:07</time>
                                                 </li>
                                                 <li className="histo-item">
-                                                    <p>Listed by <Link href="/author"><a >{`${ItemInfo.listedBy}`}</a></Link></p>
-                                                    <time>2022-08-04 20:05:07</time>
+                                                    <p>Gifted to <Link href="/trainer"><a >{`${ItemInfo.listedBy}`}</a></Link></p>
+                                                    <time>2022-04-11 20:05:07</time>
                                                 </li>
                                                 <li className="histo-item">
-                                                    <p>Owned by <Link href="/author"><a>{`${ItemInfo.owners[0].name}`}</a></Link></p>
-                                                    <time>2022-08-04 22:05:07</time>
+                                                    <p>Listed by <Link href="/trainer"><a>{`${ItemInfo.owners[0].name}`}</a></Link></p>
+                                                    <time>2023-04-11 22:05:07</time>
                                                 </li>
                                             </ul>
                                         </div>
@@ -179,7 +179,7 @@ const AssetDetails = () => {
                     <div className="col-lg-6">
                         <div className="item-buy-part">
                             <div className="nft-item-title">
-                                <h3>#003 da Silly Cat wid baLoon NFT: size 1/50</h3>
+                                <h3>Monster #94 - Level 54 - Moves 'X' 'Y' 'Z' 'W'</h3>
                                 <div className="share-btn">
                                     <div className=" dropstart">
                                         <a className=" dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
@@ -206,8 +206,8 @@ const AssetDetails = () => {
                             </div>
                             <div className="item-price">
                                 <h4>Price</h4>
-                                <p><span><i className="icofont-coins"></i> {`${ItemInfo.price}`} ETH
-                                    </span>($ 6,227.15)</p>
+                                <p><span><i className="icofont-coins"></i> {`${ItemInfo.price}`} $MMO
+                                    </span>($57.15)</p>
                             </div>
                             <div className="buying-btns d-flex flex-wrap">
                                 <Link href="/wallet">

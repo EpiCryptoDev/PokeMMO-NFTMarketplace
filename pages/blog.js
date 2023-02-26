@@ -120,7 +120,7 @@ const Blog = () => {
                                             </div>
                                             <div className="post-content">
                                                 <span className="meta">By &nbsp;
-                                                <Link href="/author">
+                                                <Link href="/trainer">
                                                 <a> {`${item.postBy}`}</a>
                                                 </Link>
                                                 
@@ -160,7 +160,7 @@ const Blog = () => {
                                         </div>
                                         <div className="post-content">
                                                 <span className="meta">By &nbsp;
-                                                <Link href="/author">
+                                                <Link href="/trainer">
                                                 <a> {`${item.postBy}`}</a>
                                                 </Link>
                                                 

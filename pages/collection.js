@@ -9,7 +9,7 @@ var GetPopularList = PopularList;
 const PageHeaderText =
 {
     "linkText":"Home",
-    "heading":"All NFT Collection"
+    "heading":"Trainer's Assets"
 };
 
 const Collection = () => {
@@ -22,7 +22,7 @@ const Collection = () => {
         <section className="collection-section padding-top padding-bottom">
             <div className="container">
                 <div className="section-header">
-                    <h3 className="header-title">All Collection</h3>
+                    <h3 className="header-title">All Assets</h3>
                 </div>
                 <div className="section-wrapper">
                     <div className="collection-wrapper collection-loadmore">

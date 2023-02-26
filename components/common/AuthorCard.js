@@ -10,14 +10,14 @@ const AuthorCard = ({item}) => {
                     </div>
                     <div className="nft-content">
                         <div className="author-thumb">
-                            <Link href="/author">
+                            <Link href="/trainer">
                             <a className="veryfied"><img loading="lazy"
                                     src={`${item.image}`} alt="author-img" /></a>
                             </Link>
                         </div>
                         <div className="author-details">
                             <h5>
-                            <Link href="/author">
+                            <Link href="/trainer">
                                 <a>{`${item.name}`}</a>
                             </Link>
                             </h5>

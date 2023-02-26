@@ -22,8 +22,9 @@ const Policy = () => {
                         <img src="assets/images/404/404.png" alt="404" />
                     </div>
                     <div className="error-content">
-                        <h3>Oops! This Page Not Found</h3>
-                        <p>We are Really Sorry But the Page you Requested is Missing <i className="icofont-worried"></i></p>
+                        <h3>Oops! This Page Was Not Found</h3>
+                        <p>We are really sorry PokeMMO Marketplace is still in Demo - Read Only Mode.<i className="icofont-worried"></i></p>
+                        <p>Some page are missing as we are still building the Marketplace.</p>
                         <a className="default-btn move-left"><span>Go Back to Home</span> </a>
                     </div>
                 </div>

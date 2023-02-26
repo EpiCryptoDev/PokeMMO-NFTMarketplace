@@ -137,13 +137,13 @@ const Category = () => {
                                             <div className="form-check">
                                             <input className="form-check-input" type="checkbox" value="For Sell" id="ethereum" onChange={(event) => productSearch(event.target.value)} />
                                                 <label className="form-check-label">
-                                                    For Sell
+                                                    Direct Sale
                                                 </label>
                                             </div>
                                             <div className="form-check">
                                             <input className="form-check-input" type="checkbox" value="For Collect" id="ethereum" onChange={(event) => productSearch(event.target.value)} />
                                                 <label className="form-check-label">
-                                                    For Collect
+                                                    Auction
                                                 </label>
                                             </div>
                                             <div className="form-check">
@@ -160,64 +160,34 @@ const Category = () => {
                                         <button className="accordion-button collapsed" type="button"
                                             data-bs-toggle="collapse" data-bs-target="#collapseThree"
                                             aria-expanded="false" aria-controls="collapseThree">
-                                            <i className="icofont-library"></i> Collections
+                                            <i className="icofont-funky-man"></i> Trainers
                                         </button>
                                     </h2>
                                     <div id="collapseThree" className="accordion-collapse collapse"
                                         aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                         <div className="accordion-body">
                                             <div className="form-check">
-                                                <input className="form-check-input" type="checkbox" value="Dark Cat Mewo" id="ethereum" onChange={(event) => productSearch(event.target.value)} />
+                                                <input className="form-check-input" type="checkbox" value="Yuri Jackmann" id="ethereum" onChange={(event) => productSearch(event.target.value)} />
                                                 <label className="form-check-label">
-                                                    Dark Cat Mewo
+                                                Yuri Jackmann
                                                 </label>
                                             </div>
                                             <div className="form-check">
-                                                <input className="form-check-input" type="checkbox" value="Space_Riderz" id="ethereum" onChange={(event) => productSearch(event.target.value)} />
+                                                <input className="form-check-input" type="checkbox" value="Rin Yazaki" id="ethereum" onChange={(event) => productSearch(event.target.value)} />
                                                 <label className="form-check-label">
-                                                    Space_Riderz
+                                                Rin Yazaki
                                                 </label>
                                             </div>
                                             <div className="form-check">
-                                                <input className="form-check-input" type="checkbox" value="Mimi_chika chao" id="ethereum" onChange={(event) => productSearch(event.target.value)} />
+                                                <input className="form-check-input" type="checkbox" value="Pedro Sanchez" id="ethereum" onChange={(event) => productSearch(event.target.value)} />
                                                 <label className="form-check-label" >
-                                                    Mimi_chika chao
+                                                Pedro Sanchez
                                                 </label>
                                             </div>
                                             <div className="form-check">
-                                                <input className="form-check-input" type="checkbox" value="Trending_Sculpture" id="ethereum" onChange={(event) => productSearch(event.target.value)} />
+                                                <input className="form-check-input" type="checkbox" value="John Doe" id="ethereum" onChange={(event) => productSearch(event.target.value)} />
                                                 <label className="form-check-label">
-                                                    Trending_Sculpture
-                                                </label>
-                                            </div>
-                                            <div className="form-check">
-                                                <input className="form-check-input" type="checkbox" value="Happy_hellwon" id="ethereum" onChange={(event) => productSearch(event.target.value)} />
-                                                <label className="form-check-label">
-                                                    Happy_hellwon
-                                                </label>
-                                            </div>
-                                            <div className="form-check">
-                                                <input className="form-check-input" type="checkbox" value="Rock dA_ Crypto" id="ethereum" onChange={(event) => productSearch(event.target.value)} />
-                                                <label className="form-check-label">
-                                                    Rock dA_ Crypto
-                                                </label>
-                                            </div>
-                                            <div className="form-check">
-                                                <input className="form-check-input" type="checkbox" value="Trdzng_Sxpture" id="ethereum" onChange={(event) => productSearch(event.target.value)} />
-                                                <label className="form-check-label">
-                                                    Trdzng_Sxpture
-                                                </label>
-                                            </div>
-                                            <div className="form-check">
-                                                <input className="form-check-input" type="checkbox" value="Mickao_Flyn re" id="ethereum" onChange={(event) => productSearch(event.target.value)} />
-                                                <label className="form-check-label">
-                                                    Mickao_Flyn re
-                                                </label>
-                                            </div>
-                                            <div className="form-check">
-                                                <input className="form-check-input" type="checkbox" value="Coffiinnee_de Mritto" id="ethereum" onChange={(event) => productSearch(event.target.value)} />
-                                                <label className="form-check-label">
-                                                    Coffiinnee_de Mritto
+                                                John Doe
                                                 </label>
                                             </div>
                                         </div>

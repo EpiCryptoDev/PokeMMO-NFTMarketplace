@@ -17,7 +17,7 @@ const ActivitySingle = ({item}) => {
                     <p className="mb-2">{`${item.description}`}
                     </p>
                     <p className="user-id">By: 
-                    <Link href="/author">
+                    <Link href="/trainer">
                     <a >{`${item.by}`}</a>
                     </Link>
                     </p>

@@ -8,10 +8,10 @@ var userList = Users.slice(0,8);
 const PageHeaderText =
 {
     "linkText":"Home",
-    "heading":"All of our Authors"
+    "heading":"Trainer List"
 };
 
-const AllAuthor = () => {
+const AllTrainers = () => {
 
     return (
         <div>
@@ -59,4 +59,4 @@ const AllAuthor = () => {
     )
 }
 
-export default AllAuthor;
+export default AllTrainers;

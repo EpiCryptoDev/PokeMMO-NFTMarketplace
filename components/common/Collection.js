@@ -50,13 +50,13 @@ const Collection = ({item}) => {
                         <div
                             className="author-details d-flex flex-wrap justify-content-between align-items-center">
                             <div className="single-author d-flex align-items-center">
-                                <Link href="/author">
+                                <Link href="/trainer">
                                 <a className="veryfied"><img
                                         src={`${item.users[0].image}`} alt="author-img" /></a>
                                 </Link>
                                 
                                 <h6>
-                                <Link href="/author">
+                                <Link href="/trainer">
                                     <a>{`${item.users[0].name}`} </a>
                                 </Link>
                                 </h6>

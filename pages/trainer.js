@@ -22,54 +22,54 @@ var featuredProduct = Products.slice(0,9);
 const PageHeaderText =
 {
     "linkText":"Home",
-    "heading":"Author Profile"
+    "heading":"Trainer Profile"
 };
 
 const AuthorInfo =
 {
-    "name":"Alex joe",
+    "name":"Pr. Willow",
     "profileImage":"assets/images/profile/1.gif",
     "cover":"assets/images/profile/cover.jpg",
-    "userName":"@alexjoe.jxe",
-    "about":"Collaboratively innovate compelling mindshare after prospective partnerships Competently sereiz long-term high-impact internal or sources via user friendly strategic themesr areas creat Dramatically coordinate premium partnerships rather than standards compliant technologies ernd Dramatically matrix ethical collaboration and idea-sharing through opensource methodologies and Intrinsicly grow collaborative platforms vis-a-vis effective scenarios. Energistically strategize cost effective ideas before the worke unde.",
-    "country":"USA",
-    "specializeIn":"Art",
-    "wallet":"fdffx1xr394kdfdk23sl",
-    "age":36,
-    "birthdate":"27-02-1996",
-    "address":"Streop Rd, Peosur, Inphodux, USA.",
+    "userName":"@Pr.Willow",
+    "about":"I am Professor Willow, the CEO of PokeMMO, I was an only child who learned to love Montsers and exploring from my parents. My mother researched Monsters ecology and My father is fascinated by the outdoors. Before setting out on my own exploration, I worked in a lab studying Pokémon under Professor Oak, whom I still looks up to today.",
+    "country":"Game Master",
+    "specializeIn":"Catch'em All, Crafting",
+    "wallet":"0x0000000000000000000000000000000000000000",
+    "age":0,
+    "birthdate":"0.00 $MMO",
+    "address":"$0.00",
     "activities":[
         {
             "id":1,
-            "title":"Gold digger x",
-            "description":"GOLD DIGGER (x Antoni Tudisco) #44/44 was put up for sale for0.0991 ETH",
+            "title":"Monster #117",
+            "description":"Monster #117 was Purchased via Direct Sale for 87,500.00 $MMO",
             "image":"assets/images/activity/117.png",
-            "by":"@rasselmrh",
-            "createdAt":"10/07/2022, 10:03 am"
+            "by":"Yuri Jackmann",
+            "createdAt":"10/04/2023, 10:03 am"
         },
         {
             "id":2,
-            "title":"ghost lix xrf",
-            "description":"two rare collection purchased for0.001 ETH",
+            "title":"Monster #125",
+            "description":"Monster #125 was Purchased via Auction for 122,744.00 $MMO",
             "image":"assets/images/activity/125.png",
-            "by":"@technonazmul",
-            "createdAt":"10/07/2022, 08:23 am"
+            "by":"Pedro Sanchez",
+            "createdAt":"10/04/2023, 08:23 am"
         },
         {
             "id":3,
-            "title":"Trust In meh",
-            "description":"The Shopping Cart #54/65 was put up for sale for 0.021 ETH",
+            "title":"Monster #131",
+            "description":"Monster #125 was Gifted via Direct Transfer for 0.00 $MMO",
             "image":"assets/images/activity/131.png",
-            "by":"@reo2lxsr",
-            "createdAt":"10/07/2022, 12:03 am"
+            "by":"Rin Yazaki",
+            "createdAt":"10/04/2023, 12:03 am"
         },
         {
             "id":4,
-            "title":"Sysytan #0le",
-            "description":"A offer of $200.00 was placed for ÜNDERSTANDING (Sean Williams) #1/20",
+            "title":"Monster #87",
+            "description":"An offer of 100,000.00 $MMO was placed for Monster #87",
             "image":"assets/images/activity/87.png",
-            "by":"@reo2lxsr",
-            "createdAt":"10/07/2022, 12:03 am"
+            "by":"Jhon Doe",
+            "createdAt":"10/04/2023, 12:03 am"
         }
     ]
 };
@@ -126,7 +126,7 @@ const Author = () => {
 
                                 </li>
                                 <li>
-                                    <a href="#">
+                                    <a href="https://twitter.com/PKMMOnline" target="_blank" rel="noreferrer">
                                         <div className="icon"><i className="icofont-ui-rate-add"></i></div>
                                         <div className="text">
                                             <p>Follow</p>
@@ -134,7 +134,7 @@ const Author = () => {
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="#">
+                                    <a href="https://t.me/pokeMMo_Channel" target="_blank" rel="noreferrer">
                                         <div className="icon"><i className="icofont-speech-comments"></i></div>
                                         <div className="text">
                                             <p>Send Message</p>
@@ -153,7 +153,7 @@ const Author = () => {
                             <div className="lab-content">
                                 <div className="profile-name">
                                     <div className="p-name-content">
-                                        <h4>William Smith</h4>
+                                        <h4>John Doe</h4>
                                         <p>Active 02 Minutes Ago</p>
                                     </div>
 
@@ -197,7 +197,7 @@ const Author = () => {
                             <div className="nav nav-tabs" id="nav-tab" role="tablist">
                                 <button className="nav-link active" id="nav-allNft-tab" data-bs-toggle="tab"
                                     data-bs-target="#allNft" type="button" role="tab" aria-controls="allNft"
-                                    aria-selected="true">All NFT</button>
+                                    aria-selected="true">All Assets</button>
                                 <button className="nav-link" id="nav-about-tab" data-bs-toggle="tab" data-bs-target="#about"
                                     type="button" role="tab" aria-controls="about" aria-selected="false">About</button>
                                 <button className="nav-link" id="nav-activity-tab" data-bs-toggle="tab"
@@ -205,7 +205,7 @@ const Author = () => {
                                     aria-selected="false">Activity</button>
                                 <button className="nav-link" id="nav-follower-tab" data-bs-toggle="tab"
                                     data-bs-target="#follower" type="button" role="tab" aria-controls="follower"
-                                    aria-selected="false">Follower <span className="item-number">231</span></button>
+                                    aria-selected="false">Followers <span className="item-number">231</span></button>
                                 <button className="nav-link" id="nav-following-tab" data-bs-toggle="tab"
                                     data-bs-target="#following" type="button" role="tab" aria-controls="following"
                                     aria-selected="false">Following <span className="item-number">145</span></button>
@@ -219,7 +219,7 @@ const Author = () => {
                                     <ul className="dropdown-menu">
                                         <li><a className="dropdown-item" href="#">Profile</a></li>
                                         <li><a className="dropdown-item" href="#">Privacy</a></li>
-                                        <li><a className="dropdown-item" href="#">Block user</a></li>
+                                        <li><a className="dropdown-item" href="#">Report user</a></li>
                                     </ul>
                                 </div>
 
@@ -239,37 +239,38 @@ const Author = () => {
                                                             <button className="nav-link active" id="pills-mentions-tab"
                                                                 data-bs-toggle="pill" data-bs-target="#pills-mentions"
                                                                 type="button" role="tab" aria-controls="pills-mentions"
-                                                                aria-selected="true"><i className="icofont-flash"></i>
+                                                                aria-selected="true"><i className="icofont-coins">{' '}</i>
                                                                 On Sale</button>
                                                         </li>
                                                         <li className="nav-item" role="presentation">
                                                             <button className="nav-link" id="pills-favorites-tab"
                                                                 data-bs-toggle="pill" data-bs-target="#pills-favorites"
                                                                 type="button" role="tab" aria-controls="pills-favorites"
-                                                                aria-selected="false"><i className="icofont-license"></i>
-                                                                owned</button>
+                                                                aria-selected="false"><i className="icofont-license">{' '}</i>
+                                                                Owned</button>
                                                         </li>
                                                         <li className="nav-item" role="presentation">
                                                             <button className="nav-link" id="pills-groups-tab"
                                                                 data-bs-toggle="pill" data-bs-target="#pills-groups"
                                                                 type="button" role="tab" aria-controls="pills-groups"
-                                                                aria-selected="false"><i className="icofont-puzzle"></i>
-                                                                Created</button>
+                                                                aria-selected="false"><i className="icofont-eye-alt">{' '}</i>
+                                                                Watchlist</button>
                                                         </li>
                                                         <li className="nav-item" role="presentation">
                                                             <button className="nav-link" id="pills-friends-tab"
                                                                 data-bs-toggle="pill" data-bs-target="#pills-friends"
                                                                 type="button" role="tab" aria-controls="pills-friends"
-                                                                aria-selected="false"><i className="icofont-library"></i>
-                                                                Collection</button>
+                                                                aria-selected="false"><i className="icofont-shopping-cart">{' '}</i>
+                                                                Purchased</button>
                                                         </li>
 
                                                         <li className="custom-select">
                                                             <select>
-                                                                <option value="1">Everything</option>
-                                                                <option value="2">Recent</option>
-                                                                <option value="3">Relevant</option>
-                                                                <option value="4">Popular</option>
+                                                                <option value="1">All</option>
+                                                                <option value="2">Trending</option>
+                                                                <option value="3">Last Day</option>
+                                                                <option value="4">Last Week</option>
+                                                                <option value="5">Last Month</option>
                                                             </select>
                                                         </li>
                                                     </ul>
@@ -349,14 +350,14 @@ const Author = () => {
                                                 <div className="profile-widget search-widget">
                                                     <div className="widget-inner">
                                                         <div className="widget-title">
-                                                            <h5>Search NFT</h5>
+                                                            <h5>Search Asset</h5>
                                                         </div>
                                                         <div className="widget-content">
-                                                            <p>Search from best Rarest NFT collections</p>
+                                                            <p>Search from Pr. Willow Assets, Trades & Watchlist</p>
                                                             <div className="form-floating nft-search-input">
                                                                 <input type="text" className="form-control"
                                                                     placeholder="Search NFT" />
-                                                                <label>Search NFT</label>
+                                                                <label>Search Asset</label>
                                                                 <button type="button"> <i
                                                                         className="icofont-search-1"></i></button>
                                                             </div>
@@ -366,7 +367,7 @@ const Author = () => {
                                                 </div>
                                                 <div className="widget widget-instagram">
                                                     <div className="widget-header">
-                                                        <h5 className="title">Featured NFT</h5>
+                                                        <h5 className="title">Featured Assets</h5>
                                                     </div>
                                                     <ul className="widget-wrapper d-flex flex-wrap justify-content-center">
                                                     {
@@ -396,7 +397,7 @@ const Author = () => {
 
                                                 <div className="info-card mb-3">
                                                     <div className="info-card-title">
-                                                        <h4>About</h4>
+                                                        <h4>Bio</h4>
                                                     </div>
                                                     <div className="info-card-content">
                                                         <p>{`${AuthorInfo.about}`}</p>
@@ -413,27 +414,27 @@ const Author = () => {
                                                                 <p className="info-details">{`${AuthorInfo.name}`}</p>
                                                             </li>
                                                             <li>
-                                                                <p className="info-name">Country</p>
+                                                                <p className="info-name">Role</p>
                                                                 <p className="info-details">{`${AuthorInfo.country}`}</p>
                                                             </li>
                                                             <li>
-                                                                <p className="info-name">Specialize in</p>
+                                                                <p className="info-name">Gameplay</p>
                                                                 <p className="info-details">{`${AuthorInfo.specializeIn}`}</p>
                                                             </li>
                                                             <li>
-                                                                <p className="info-name">Wallet Add</p>
+                                                                <p className="info-name">Wallet Address</p>
                                                                 <p className="info-details">{`${AuthorInfo.wallet}`}</p>
                                                             </li>
                                                             <li>
-                                                                <p className="info-name">Age</p>
+                                                                <p className="info-name">Trades</p>
                                                                 <p className="info-details">{`${AuthorInfo.age}`}</p>
                                                             </li>
                                                             <li>
-                                                                <p className="info-name">Date of Birth</p>
+                                                                <p className="info-name">Sales ($MMO)</p>
                                                                 <p className="info-details">{`${AuthorInfo.birthdate}`}</p>
                                                             </li>
                                                             <li>
-                                                                <p className="info-name">Address</p>
+                                                                <p className="info-name">Sales ($)</p>
                                                                 <p className="info-details">{`${AuthorInfo.address}`}</p>
                                                             </li>
                                                         </ul>
@@ -449,14 +450,14 @@ const Author = () => {
                                                 <div className="profile-widget search-widget">
                                                     <div className="widget-inner">
                                                         <div className="widget-title">
-                                                            <h5>Search NFT</h5>
+                                                            <h5>Search Asset</h5>
                                                         </div>
                                                         <div className="widget-content">
-                                                            <p>Search from best Rarest NFT collections</p>
+                                                            <p>Search from Pr. Willow Assets, Trades & Watchlist</p>
                                                             <div className="form-floating nft-search-input">
                                                                 <input type="text" className="form-control"
                                                                     placeholder="Search NFT" />
-                                                                <label>Search NFT</label>
+                                                                <label>Search Asset</label>
                                                                 <button type="button"> <i
                                                                         className="icofont-search-1"></i></button>
                                                             </div>
@@ -491,7 +492,7 @@ const Author = () => {
                                     <div className="row">
                                         <div className="col-xl-9">
                                             <article>
-                                                <h4 className="h4-title">Authors Activity</h4>
+                                                <h4 className="h4-title">Trainer's Activity</h4>
                                                 <div className="row gy-3">
                                                     {
                                                         AuthorInfo.activities.map((item) =>(
@@ -512,14 +513,14 @@ const Author = () => {
                                                 <div className="profile-widget search-widget">
                                                     <div className="widget-inner">
                                                         <div className="widget-title">
-                                                            <h5>Search NFT</h5>
+                                                            <h5>Search Asset</h5>
                                                         </div>
                                                         <div className="widget-content">
-                                                            <p>Search from best Rarest NFT collections</p>
+                                                            <p>Search from Pr. Willow Assets, Trades & Watchlist</p>
                                                             <div className="form-floating nft-search-input">
                                                                 <input type="text" className="form-control"
                                                                     placeholder="Search NFT" />
-                                                                <label>Search NFT</label>
+                                                                <label>Search Asset</label>
                                                                 <button type="button"> <i
                                                                         className="icofont-search-1"></i></button>
                                                             </div>
@@ -577,14 +578,14 @@ const Author = () => {
                                                 <div className="profile-widget search-widget">
                                                     <div className="widget-inner">
                                                         <div className="widget-title">
-                                                            <h5>Search NFT</h5>
+                                                            <h5>Search Asset</h5>
                                                         </div>
                                                         <div className="widget-content">
-                                                            <p>Search from best Rarest NFT collections</p>
+                                                            <p>Search from Pr. Willow Assets, Trades & Watchlist</p>
                                                             <div className="form-floating nft-search-input">
                                                                 <input type="text" className="form-control"
                                                                     placeholder="Search NFT" />
-                                                                <label>Search NFT</label>
+                                                                <label>Search Asset</label>
                                                                 <button type="button"> <i
                                                                         className="icofont-search-1"></i></button>
                                                             </div>
@@ -619,7 +620,7 @@ const Author = () => {
                                 <div className="row">
                                     <div className="col-xl-9">
                                         <div className="follow-wrapper">
-                                            <h4 className="h4-title">Following</h4>
+                                            <h4 className="h4-title">All Following</h4>
                                             <div className="row g-3">
                                             {
                                                         Following.map((item,i=1) =>(
@@ -639,14 +640,14 @@ const Author = () => {
                                             <div className="profile-widget search-widget">
                                                 <div className="widget-inner">
                                                     <div className="widget-title">
-                                                        <h5>Search NFT</h5>
+                                                        <h5>Search Asset</h5>
                                                     </div>
                                                     <div className="widget-content">
-                                                        <p>Search from best Rarest NFT collections</p>
+                                                        <p>Search from Pr. Willow Assets, Trades & Watchlist</p>
                                                         <div className="form-floating nft-search-input">
                                                             <input type="text" className="form-control"
                                                                 placeholder="Search NFT" />
-                                                            <label>Search NFT</label>
+                                                            <label>Search Asset</label>
                                                             <button type="button"> <i
                                                                     className="icofont-search-1"></i></button>
                                                         </div>

@@ -70,7 +70,7 @@ const Header = () => {
                             </li>
                             <li className="header__nav-item">
                                 <a className="header__nav-link" href="#" role="button" data-bs-toggle="dropdown"
-                                    aria-haspopup="true" aria-expanded="false" data-bs-offset="0,10">NFTs</a>
+                                    aria-haspopup="true" aria-expanded="false" data-bs-offset="0,10">Assets</a>
 
                                 <ul className="dropdown-menu header__nav-menu">
                                     <li>
@@ -108,20 +108,9 @@ const Header = () => {
                                     </li>
                                     <li>
                                     <Link href="/collection">
-                                        <a className={router.pathname == "/collection" ? "drop-down-item active" : "drop-down-item"}> NFT Collection</a>
+                                        <a className={router.pathname == "/collection" ? "drop-down-item active" : "drop-down-item"}>Trainer's Assets</a>
                                     </Link>
                                     </li>
-                                    <li>
-                                    <Link href="/collectionsingle">
-                                        <a className={router.pathname == "/collectionsingle" ? "drop-down-item active" : "drop-down-item"}> Collection Single</a>
-                                    </Link>
-                                    </li>
-                                    <li>
-                                    <Link href="/wallet">
-                                        <a className={router.pathname == "/wallet" ? "drop-down-item active" : "drop-down-item"}> Wallet</a>
-                                    </Link>
-                                    </li>
-
                                 </ul>
                             </li>
                             <li className="header__nav-item">
@@ -130,12 +119,12 @@ const Header = () => {
 
                                 <ul className="dropdown-menu header__nav-menu">
                                     <li>
-                                    <Link href="/allauthors">
+                                    <Link href="/alltrainers">
                                         <a className={router.pathname == "/alltrainers" ? "drop-down-item active" : "drop-down-item"}>All Trainers</a>
                                     </Link>
                                     </li>
                                     <li>
-                                    <Link href="/author">
+                                    <Link href="/trainer">
                                         <a className={router.pathname == "/trainer" ? "drop-down-item active" : "drop-down-item"}>Trainer View</a>
                                     </Link>
                                     </li>

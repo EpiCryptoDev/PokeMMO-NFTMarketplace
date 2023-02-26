@@ -9,14 +9,14 @@ const Collector = ({data,count,countShow=true,columnSize = "col-xl-4 col-lg-6"})
                         <p className="assets-number">{countShow?count+1:''}</p>
                         <div className="assets-owner">
                             <div className="owner-thumb veryfied">
-                                <Link href="/author">
+                                <Link href="/trainer">
                                 <a className=""><img
                                         src={`${data.image}`} alt="seller-img" /></a>
                                 </Link>
                             </div>
                             <div className="owner-content">
                                 <h6>
-                                <Link href="/author">
+                                <Link href="/trainer">
                                     <a>{`${data.name}`}</a>
                                 </Link> 
                                 </h6>
