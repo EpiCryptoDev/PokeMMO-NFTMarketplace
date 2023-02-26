@@ -66,6 +66,11 @@ const Header = () => {
                                         <a target="_blank" rel="noreferrer" className={router.pathname == "/Play" ? "drop-down-item active" : "drop-down-item"}>Play PokeMMO</a>
                                     </Link>
                                     </li>
+                                    <li>
+                                    <Link href="https://pokemmo.online/wp-content/uploads/2023/02/PokeMMO-Win-v0.0.17.zip">
+                                        <a target="_blank" rel="noreferrer" className={router.pathname == "/Download" ? "drop-down-item active" : "drop-down-item"}>Download PokeMMO</a>
+                                    </Link>
+                                    </li>
                                 </ul>
                             </li>
                             <li className="header__nav-item">
@@ -85,17 +90,9 @@ const Header = () => {
                                     </li>
                                     <li>
                                     <Link href="/explore">
-                                        <a className={router.pathname == "/explore" ? "drop-down-item active" : "drop-down-item"}>Explore 1</a>
+                                        <a className={router.pathname == "/explore" ? "drop-down-item active" : "drop-down-item"}>Explore</a>
                                     </Link>
-                                    
-                                    </li>
-                                    <li>
-                                    <Link href="/exploretwo">
-                                        <a className={router.pathname == "/exploretwo" ? "drop-down-item active" : "drop-down-item"}>Explore 2</a>
-                                    </Link>
-                                    
-                                    </li>
-                                    
+                                    </li>                              
                                     <li>
                                         <Link href="/auction">
                                         <a className={router.pathname == "/auction" ? "drop-down-item active" : "drop-down-item"}>Auction Page</a>
@@ -103,7 +100,7 @@ const Header = () => {
                                     </li>
                                     <li>
                                         <Link href="/category">
-                                        <a className={router.pathname == "/category" ? "drop-down-item active" : "drop-down-item"}>Category single</a>
+                                        <a className={router.pathname == "/category" ? "drop-down-item active" : "drop-down-item"}>Category</a>
                                         </Link>
                                     </li>
                                     <li>
@@ -120,21 +117,26 @@ const Header = () => {
                                 <ul className="dropdown-menu header__nav-menu">
                                     <li>
                                     <Link href="/alltrainers">
-                                        <a className={router.pathname == "/alltrainers" ? "drop-down-item active" : "drop-down-item"}>All Trainers</a>
+                                        <a className={router.pathname == "/alltrainers" ? "drop-down-item active" : "drop-down-item"}>Trainers</a>
                                     </Link>
                                     </li>
                                     <li>
                                     <Link href="/trainer">
-                                        <a className={router.pathname == "/trainer" ? "drop-down-item active" : "drop-down-item"}>Trainer View</a>
+                                        <a className={router.pathname == "/trainer" ? "drop-down-item active" : "drop-down-item"}>Trainer Profile</a>
                                     </Link>
                                     </li>
                                     <li>
                                     <Link href="/rank">
-                                        <a className={router.pathname == "/rank" ? "drop-down-item active" : "drop-down-item"}>Trainer Rank </a>
+                                        <a className={router.pathname == "/rank" ? "drop-down-item active" : "drop-down-item"}>Trainers Rank</a>
                                     </Link>
                                     </li>
                                 </ul>
                             </li>
+
+
+       <li className="header__nav-item">Blog</li>      {/* Erase THIS LANE to add blog Menu Other changes to make on News sections!!!! 
+
+
                             <li className="header__nav-item">
                                 <a className="header__nav-link" href="#" role="button" data-bs-toggle="dropdown"
                                     aria-haspopup="true" aria-expanded="false" data-bs-offset="0,10">Blog</a>
@@ -230,6 +232,7 @@ const Header = () => {
                                     </li>
                                 </ul>
                             </li>
+   
                             <li className="header__nav-item">
                                 <a className="header__nav-link" href="#" role="button" data-bs-toggle="dropdown"
                                     aria-haspopup="true" aria-expanded="false" data-bs-offset="0,10"><svg
@@ -252,9 +255,10 @@ const Header = () => {
                 
                                 </ul>
                             </li>
+             */}
                         </ul>
                     </div>
-
+            
                     <div className="header__actions">
                         <div className="header__action header__action--search">
                             <button className="header__action-btn" type="button"><i className="icofont-search-1"></i></button>

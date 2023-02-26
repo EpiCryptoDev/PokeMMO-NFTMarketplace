@@ -104,11 +104,11 @@ const Wallet = () => {
                         </div>
                     </div>
                 </div>
-
-
+                <div className="wallet-title text-center">
                 <p className="mt-5 mb-0 wallet-notice"><span className="me-1 theme-color"><i
-                            className="icofont-bulb-alt"></i></span> You can use any type of crypto wallet if you wish. The
+                            className="icofont-bulb-alt"></i></span> You can use any type of crypto wallet. The
                     above wallets are shown only for demo purpose.</p>
+                </div>
             </div>
         </div>
     </section>

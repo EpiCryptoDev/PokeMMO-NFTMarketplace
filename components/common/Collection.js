@@ -44,7 +44,7 @@ const Collection = ({item}) => {
                                 <a>{`${item.title}`}</a>
                                 </Link>
                             </h5>
-                            <p>Collection has {`${item.items}`} items</p>
+                            <p>Trainer has {`${item.items}`} items</p>
                         </div>
 
                         <div
@@ -61,8 +61,8 @@ const Collection = ({item}) => {
                                 </Link>
                                 </h6>
                             </div>
-                            <span className="badge rounded-pill"><i className="icofont-heart"></i>
-                            {`${item.wish}`}k</span>
+                            <span className="badge rounded-pill"><i className="icofont-heart">&nbsp;</i>
+                            {`${item.wish}`} </span>
                         </div>
                     </div>
                 </div>

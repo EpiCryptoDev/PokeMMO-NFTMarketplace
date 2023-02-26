@@ -24,11 +24,11 @@ const News = ({data}) => {
                                 <p><span><i className="icofont-user" data-blast="color"></i></span>{`${data.author}`}
                                 </p>
                             </div>
-                            <Link href="/blogsingle">
+              {/*              <Link href="/blogsingle">  */} 
                             <a
                                 className="default-btn move-right small-btn"><span>Read
                                     More</span> </a>
-                            </Link>
+              {/*              </Link>    */} 
                         </div>
                     </div>
                 </div>

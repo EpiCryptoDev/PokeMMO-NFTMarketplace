@@ -12,13 +12,13 @@ const TopSeller = () => {
             <section className="seller-section pb-100">
         <div className="container">
             <div className="section-header">
-                <h3 className="header-title">Top Seller</h3>
+                <h3 className="header-title">Top Trainers</h3>
                 <div className="header-content">
                     <ul className="filter-group d-flex flex-wrap align-items-center">
                         <li className="li collection-filter">
                             <div className="select-wrapper arrow-blue" data-icon="&#xea99;">
                                 <select className="form-select " aria-label="Collection select">
-                                    <option>Collections</option>
+                                    <option>Sales</option>
                                     <option value="1">Newest</option>
                                     <option value="2">Trending</option>
                                     <option value="3">Most Popular</option>

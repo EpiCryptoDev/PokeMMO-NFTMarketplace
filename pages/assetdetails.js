@@ -12,13 +12,13 @@ const ItemInfo =
 {
     "id": 1,
         "image": "assets/images/nft-item/94-600.png",
-        "description": "Monster #94 - Level 54 - Moves 'X' 'Y' 'Z' 'W'",
+        "description": "Monster #94 - Level 54 - Moves W X Y Z",
         "wishlist": "1.3",
         "expiredate": "2022-06-26",
         "title": "Dodo je Aliener Walk",
         "stock": "12",
         "price": "275.000",
-        "size": "Level 54 - Moves 'X' 'Y' 'Z' 'W'",
+        "size": "Level 54 - Moves W X Y Z W",
         "createdBy": "Pr. Willow",
         "listedBy": "Yuri Jackmann",
         "owners": [

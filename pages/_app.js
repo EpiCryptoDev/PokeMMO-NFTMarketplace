@@ -12,8 +12,8 @@ function MyApp({ Component, pageProps }) {
   return (
   <div>
     <Head>
-      <title>PokeMMO NFT Marketplace</title>
-      <meta name="description" content="PokeMMO NFT Marketplace is where you can buy and sell your in-game PokeMMO assets." />
+      <title>PokeMMO Marketplace</title>
+      <meta name="description" content="PokeMMO Marketplace is where you can buy and sell your PokeMMO assets." />
       <link rel="icon" type="image/png" href="assets/images/favicon.png" />
     </Head>
     <Header></Header>

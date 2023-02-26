@@ -56,37 +56,37 @@ const Footer = () => {
                             </div>
                             <div className="col-lg-3 col-md-6">
                                 <div className="footer-link-item">
-                                    <h5>Company</h5>
-                                    <ul className="footer-link-list">
-                                        <li><a href="#" className="footer-link">About</a></li>
-                                        <li><a href="#" className="footer-link">Mission & Team</a></li>
-                                        <li><a href="#" className="footer-link">Our Blog</a></li>
-                                        <li><a href="#" className="footer-link">Services</a></li>
-                                        <li><a href="#" className="footer-link">We are Hiring</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div className="col-lg-3 col-md-6">
-                                <div className="footer-link-item">
                                     <h5>NFT Marketplace</h5>
                                     <ul className="footer-link-list">
-                                        <li><a href="#" className="footer-link">Sell your assets</a></li>
-                                        <li><a href="#" className="footer-link">FAQ</a></li>
-                                        <li><a href="#" className="footer-link">Support</a></li>
-                                        <li><a href="#" className="footer-link">Privacy/Policy</a></li>
-                                        <li><a href="#" className="footer-link">Your purchases</a></li>
+                                        <li><a href="/sellassets" className="footer-link">Sell your Assets</a></li>
+                                        <li><a href="/trainer" className="footer-link">Your Profile</a></li>
+                                        <li><a href="/explore" className="footer-link">Explore Assets</a></li>
+                                        <li><a href="/rank" className="footer-link">Ranking</a></li>
+                                        <li><a href="https://t.me/pokemmo_channel" target="_blank" rel="noreferrer" className="footer-link">Support</a></li>
                                     </ul>
                                 </div>
                             </div>
                             <div className="col-lg-3 col-md-6">
                                 <div className="footer-link-item">
-                                    <h5>Comunity</h5>
+                                    <h5>Whitepaper</h5>
                                     <ul className="footer-link-list">
-                                        <li><a href="#" className="footer-link">NFT Token</a></li>
-                                        <li><a href="#" className="footer-link">Discusion</a></li>
-                                        <li><a href="#" className="footer-link">Voting</a></li>
-                                        <li><a href="#" className="footer-link">Suggest Feature</a></li>
-                                        <li><a href="#" className="footer-link">Language</a></li>
+                                        <li><a href="https://whitepaper.pokemmo.online/" target="_blank" rel="noreferrer" className="footer-link">About</a></li>
+                                        <li><a href="https://whitepaper.pokemmo.online/professor-willows-vision" target="_blank" rel="noreferrer" className="footer-link">Vision</a></li>
+                                        <li><a href="https://whitepaper.pokemmo.online/game-design-and-economy/usdmmo-token" target="_blank" rel="noreferrer" className="footer-link">Tokenomics</a></li>
+                                        <li><a href="https://whitepaper.pokemmo.online/game-design-and-economy/game-design-mechanics-and-gameplay" target="_blank" rel="noreferrer" className="footer-link">Gameplay</a></li>
+                                        <li><a href="https://whitepaper.pokemmo.online/game-design-and-economy/economy" target="_blank" rel="noreferrer" className="footer-link">Game Economy</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div className="col-lg-3 col-md-6">
+                                <div className="footer-link-item">
+                                    <h5>Further Information</h5>
+                                    <ul className="footer-link-list">
+                                        <li><a href="https://whitepaper.pokemmo.online/roadmap/project-roadmap" target="_blank" rel="noreferrer" className="footer-link">Project Roadmap</a></li>
+                                        <li><a href="https://whitepaper.pokemmo.online/roadmap/game-dev-roadmap" target="_blank" rel="noreferrer" className="footer-link">Game Dev Roadmap</a></li>
+                                        <li><a href="https://whitepaper.pokemmo.online/miscellaneous/game-releases" target="_blank" rel="noreferrer" className="footer-link">Game Releases</a></li>
+                                        <li><a href="https://whitepaper.pokemmo.online/miscellaneous/disclaimer" target="_blank" rel="noreferrer" className="footer-link">Disclaimer</a></li>
+                                        <li><a href="https://whitepaper.pokemmo.online/miscellaneous/frequently-asked-questions" target="_blank" rel="noreferrer" className="footer-link">FAQ</a></li>
                                     </ul>
                                 </div>
                             </div>

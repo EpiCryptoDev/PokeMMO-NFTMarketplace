@@ -11,7 +11,7 @@ const Category = () => {
             <div className="section-header">
                 <h3 className="header-title">Browse By Catergory</h3>
                 <div className="header-content">
-                    <Link href="/exploretwo">
+                    <Link href="/explore">
                     <a
                         className="default-btn style-2 small-btn move-right"><span>View All
                             <i className="icofont-circled-right"></i></span>

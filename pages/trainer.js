@@ -29,7 +29,7 @@ const AuthorInfo =
 {
     "name":"Pr. Willow",
     "profileImage":"assets/images/profile/1.gif",
-    "cover":"assets/images/profile/cover.jpg",
+    "cover":"assets/images/profile/cover.png",
     "userName":"@Pr.Willow",
     "about":"I am Professor Willow, the CEO of PokeMMO, I was an only child who learned to love Montsers and exploring from my parents. My mother researched Monsters ecology and My father is fascinated by the outdoors. Before setting out on my own exploration, I worked in a lab studying Pokémon under Professor Oak, whom I still looks up to today.",
     "country":"Game Master",

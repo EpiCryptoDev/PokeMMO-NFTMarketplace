@@ -12,11 +12,12 @@ const LatestNews = () => {
             <div className="section-header">
                 <h3 className="header-title"> Our Latest News</h3>
                 <div className="header-content">
-                    <Link href="/blog">
+{/*            <Link href="/blog">     */}  
                     <a
                         className="default-btn style-2 small-btn move-right"><span>View All
                             <i className="icofont-circled-right"></i></span></a>
-                    </Link> 
+         {/*             </Link>              */} 
+               
                     </div>
             </div>
 

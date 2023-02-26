@@ -6,41 +6,41 @@ import PageHeader from '../components/PageHaeder';
 const PageHeaderText =
 {
     "linkText":"Home",
-    "heading":"All Activities"
+    "heading":"My Activities"
 };
 
 const Activities = [
     {
         "id":1,
-        "title":"Gold digger x",
-        "description":"GOLD DIGGER (x Antoni Tudisco) #44/44 was put up for sale for0.0991 ETH",
+        "title":"Monster #117",
+        "description":"Monster #117 was Purchased via Direct Sale for 87,500.00 $MMO",
         "image":"assets/images/activity/117.png",
-        "by":"@rasselmrh",
-        "createdAt":"10/07/2022, 10:03 am"
+        "by":"Yuri Jackmann",
+        "createdAt":"10/04/2023, 10:03 am"
     },
     {
         "id":2,
-        "title":"ghost lix xrf",
-        "description":"two rare collection purchased for0.001 ETH",
+        "title":"Monster #125",
+        "description":"Monster #125 was Purchased via Auction for 122,744.00 $MMO",
         "image":"assets/images/activity/125.png",
-        "by":"@technonazmul",
-        "createdAt":"10/07/2022, 08:23 am"
+        "by":"Pedro Sanchez",
+        "createdAt":"10/04/2023, 08:23 am"
     },
     {
         "id":3,
-        "title":"Trust In meh",
-        "description":"The Shopping Cart #54/65 was put up for sale for 0.021 ETH",
+        "title":"Monster #131",
+        "description":"Monster #125 was Gifted via Direct Transfer for 0.00 $MMO",
         "image":"assets/images/activity/131.png",
-        "by":"@reo2lxsr",
-        "createdAt":"10/07/2022, 12:03 am"
+        "by":"Rin Yazaki",
+        "createdAt":"10/04/2023, 12:03 am"
     },
     {
         "id":4,
-        "title":"Sysytan #0le",
-        "description":"A offer of $200.00 was placed for ÜNDERSTANDING (Sean Williams) #1/20",
+        "title":"Monster #87",
+        "description":"An offer of 100,000.00 $MMO was placed for Monster #87",
         "image":"assets/images/activity/87.png",
-        "by":"@reo2lxsr",
-        "createdAt":"10/07/2022, 12:03 am"
+        "by":"Jhon Doe",
+        "createdAt":"10/04/2023, 12:03 am"
     }
 ];
 
@@ -143,7 +143,7 @@ const Activity = () => {
                         <aside className="mt-5 mt-xl-0">
                             <div className="widget widget-tags">
                                 <div className="widget-header">
-                                    <h5 className="title">Filters By</h5>
+                                    <h5 className="title">Filter By</h5>
                                 </div>
 
                                 <ul className="widget-wrapper justify-content-start">

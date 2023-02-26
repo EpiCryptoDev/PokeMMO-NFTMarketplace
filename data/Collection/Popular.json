@@ -2,8 +2,8 @@
     {
         "id":"1",
         "title":"Yuri Jackmann's Assets",
-        "items":13,
-        "wish":11.3,
+        "items":113,
+        "wish":197,
         "users": [
             {
                 "id":"1",
@@ -35,8 +35,8 @@
     {
         "id":"2",
         "title":"Rin Yazaki's Assets",
-        "items":11,
-        "wish":10.5,
+        "items":111,
+        "wish":334,
         "users": [
             {
                 "id":"1",
@@ -68,8 +68,8 @@
     {
         "id":"3",
         "title":"Pedro Sanchez's Assets",
-        "items":14,
-        "wish":4.3,
+        "items":114,
+        "wish":223,
         "users": [
             {
                 "id":"1",
@@ -101,8 +101,8 @@
     {
         "id":"4",
         "title":"John Doe's Assets",
-        "items":16,
-        "wish":4.3,
+        "items":116,
+        "wish":146,
         "users": [
             {
                 "id":"1",
@@ -134,8 +134,8 @@
     {
         "id":"5",
         "title":"John Doe's Assets",
-        "items":21,
-        "wish":11.3,
+        "items":121,
+        "wish":113,
         "users": [
             {
                 "id":"1",
@@ -167,8 +167,8 @@
     {
         "id":"6",
         "title":"John Doe's Assets",
-        "items":31,
-        "wish":4.3,
+        "items":131,
+        "wish":83,
         "users": [
             {
                 "id":"1",
@@ -200,8 +200,8 @@
     {
         "id":"7",
         "title":"John Doe's Assets",
-        "items":14,
-        "wish":4.3,
+        "items":114,
+        "wish":43,
         "users": [
             {
                 "id":"1",
@@ -233,8 +233,8 @@
     {
         "id":"8",
         "title":"John Doe's Assets",
-        "items":15,
-        "wish":2.3,
+        "items":115,
+        "wish":23,
         "users": [
             {
                 "id":"1",
@@ -266,8 +266,8 @@
     {
         "id":"9",
         "title":"John Doe's Assets",
-        "items":14,
-        "wish":4.3,
+        "items":94,
+        "wish":43,
         "users": [
             {
                 "id":"1",
