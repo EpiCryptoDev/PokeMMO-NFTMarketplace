@@ -108,7 +108,7 @@ const Header = () => {
                                     </li>
                                     <li>
                                     <Link href="/collection">
-                                        <a className={router.pathname == "/collection" ? "drop-down-item active" : "drop-down-item"}>Trainer's Assets</a>
+                                        <a className={router.pathname == "/collection" ? "drop-down-item active" : "drop-down-item"}>Trainers Assets</a>
                                     </Link>
                                     </li>
                                 </ul>
